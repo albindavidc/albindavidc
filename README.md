@@ -1,10 +1,10 @@
 <h1>👋 Hi ALBIN DAVID C here ,</h1>
 <h2>Scroll down ⬇️ to check out my list of Works ..</h2>
 
-<h3>Check out my Portfolio Site 🌐:</h3>
+<h2>Check out my Portfolio Site 🌐:</h2>
 Link to Site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
-<h2>🚀 Projects</h2>    
+<h3>🚀 Projects</h3>    
 
 <h2>Working Currently 💣</h2>
 
