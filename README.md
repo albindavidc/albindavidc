@@ -2,7 +2,9 @@
 <h2>Scroll down ⬇️ to check out my list of Works ..</h2>
 
 <h2>Check out my Portfolio Site 🌐:</h2>
-Link to Site: ![Portfolio(https://albindavidc.github.io/portfolio/)]
+Link to Site: ![Portfolio](https://albindavidc.github.io/portfolio/)
+
+![I am GitHub Readme Generator's creator](https://albindavidc.github.io/portfolio/){:target="_blank")
 
 <h2>🚀 Projects</h2>    
 
