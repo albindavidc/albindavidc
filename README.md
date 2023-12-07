@@ -1,15 +1,10 @@
 # 👋 Hi ALBIN DAVID C here ,
-## A passionate Full Stack Developer from India
+# A passionate Full Stack Developer from India
 
 
 #### Check out my Portfolio Site 🌐
 Link to the site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
-
-# Scroll down ⬇️ to check out my list of Works ..
-
-</br>
-</br>
 
 ## 🚀 Projects   
 
