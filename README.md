@@ -18,7 +18,7 @@
 # Working Currently 💣
 
 # Completed 💣
-OpenAI Redesign : https://albindavidc.github.io/OpenAI/
+OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/) 
 
 </br>
 </br>
