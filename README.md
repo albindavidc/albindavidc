@@ -4,11 +4,11 @@
 <h2>Check out my Portfolio Site 🌐:</h2>
 Link to Site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
-<h3>🚀 Projects</h3>    
+<h2>🚀 Projects</h2>    
 
-<h2>Working Currently 💣</h2>
+<h1>Working Currently 💣</h1>
 
-<h2>  Completed 💣</h2>  
+<h1>  Completed 💣</h1>  
 OpenAI Redesign : [code](https://albindavidc.github.io/OpenAI/)
 
 
