@@ -4,7 +4,7 @@
 <h2>Check out my Portfolio Site 🌐:</h2>
 Link to Site: ![Portfolio](https://albindavidc.github.io/portfolio/)
 
-![I am GitHub Readme Generator's creator](https://albindavidc.github.io/portfolio/){:target="_blank")
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://albindavidc.github.io/portfolio/)  
 
 <h2>🚀 Projects</h2>    
 
