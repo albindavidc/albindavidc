@@ -2,8 +2,7 @@
 <h2>Scroll down ⬇️ to check out my list of Works ..</h2>
 
 <h2>Check out my Portfolio Site 🌐:</h2>
-Link to Site: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://albindavidc.github.io/portfolio/)  
+Link to Site: albindavidc.github.io/portfolio/
 
 
 <h2>🚀 Projects</h2>    
