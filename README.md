@@ -2,7 +2,7 @@
 
 </br>
 
-# A passionate frontend developer from India
+# A passionate Full Stack Developer from India
 
 ## Scroll down ⬇️ to check out my list of Works ..
 
@@ -64,6 +64,10 @@ OpenAI Redesign : https://albindavidc.github.io/OpenAI/
 </br>
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&show_icons=true&locale=en&layout=compact" alt="albindavidc" /></p>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albindavidc&show_icons=true&locale=en" alt="albindavidc" /></p>
