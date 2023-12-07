@@ -1,6 +1,4 @@
 # 👋 Hi ALBIN DAVID C here ,
-
-
 ## A passionate Full Stack Developer from India
 
 
