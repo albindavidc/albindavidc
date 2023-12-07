@@ -8,13 +8,14 @@ Link to the site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
 ## 🚀 Projects   
 
+
 # Working Currently 💣
+
+
 
 # Completed 💣
 OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/) 
 
-</br>
-</br>
 
 
 ## Skills 🚀
