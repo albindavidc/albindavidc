@@ -141,7 +141,7 @@ OpenAI Redesign : https://albindavidc.github.io/OpenAI/
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
             
-<img src="https://raw.githubusercontent.com/albindavidc/albindavidc/output/snake.svg" alt="Snake animation" />
+<img src="github-snake.svg" alt="Snake animation" />
 
 ###
 
