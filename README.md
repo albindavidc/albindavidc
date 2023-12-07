@@ -6,9 +6,8 @@ Link to Site: https://albindavidc.github.io/portfolio/
 
 </br>
 </br>
-</br>
-</br>
-</br>
+
+
 ## 🚀 Projects   
 
 # Working Currently 💣
@@ -16,6 +15,8 @@ Link to Site: https://albindavidc.github.io/portfolio/
 # Completed 💣
 OpenAI Redesign : https://albindavidc.github.io/OpenAI/
 
+</br>
+</br>
 
 
 ## Skills 🚀
