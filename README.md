@@ -63,7 +63,7 @@ OpenAI Redesign : https://albindavidc.github.io/OpenAI/
 
 </br>
 </br>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&show_icons=true&locale=en&layout=compact" alt="albindavidc" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&show_icons=true&locale=en&layout=compact" alt="albindavidc" /></p>
 </br>
 </br>
 </br>
