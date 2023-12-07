@@ -1,44 +1,38 @@
 <h1>👋 Hi ALBIN DAVID C here ,</h1>
-<hr>
-
 <h2>Scroll down ⬇️ to check out my list of Works ..</h2>
 
-<hr>
-
 <h4>Check out my Portfolio Site 🌐:</h4>
-<hr>
 Link to Site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
 🚀 Projects
 
-<hr>
-
 <h3>Working Currently 💣</h3>
-<hr>
 
 <h3>  Completed 💣</h3>  
-<hr>
 OpenAI Redesign : [code](https://albindavidc.github.io/OpenAI/)
 
 
 
-<h3> Skills 🚀</h3>  
-<hr>
+<h3> Skills 🚀</h3> 
 
-<h5>Hard Skills 🤖</h5>
-* Public speaking and seminar facilitation 🎙️
-Event coordination and organization 🎉
-Marketing and Sales 💰
-Artificial intelligence and machine learning 🧠
-E-commerce management 🛍️
-Social media marketing 📱
-Project management 📈
+<h2>Hard Skills 🤖</h2>
+<ul>
+    <li>Public speaking and seminar facilitation 🎙️</li>
+    <li>Event coordination and organization 🎉</li>
+    <li>Marketing and Sales 💰</li>
+    <li>Artificial intelligence and machine learning 🧠</li>
+    <li>E-commerce management 🛍️</li>
+    <li>Social media marketing 📱</li>
+    <li>Project management 📈</li>
+</ul>
 
-<h5>Soft Skills 🧑‍🤝‍🧑</h5>
-Leadership 🏆
-Team management 👥
-Communication 🗣️
-Problem-solving 🤔
-Adaptability 🌍
-Time management ⏰
-Attention to detail 👀
+<h2>Soft Skills 🧑‍🤝‍🧑</h2>
+<ul>
+    <li>Leadership 🏆</li>
+    <li>Team management 👥</li>
+    <li>Communication 🗣️</li>
+    <li>Problem-solving 🤔</li>
+    <li>Adaptability 🌍</li>
+    <li>Time management ⏰</li>
+    <li>Attention to detail 👀</li>
+</ul>
