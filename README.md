@@ -2,7 +2,7 @@
 
 </br>
 
-# A passionate Full Stack Developer from India
+## A passionate Full Stack Developer from India
 
 
 ## Check out my Portfolio Site 🌐
