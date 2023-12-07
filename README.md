@@ -5,18 +5,19 @@
 #### Check out my Portfolio Site 🌐
 Link to the site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
+</br></br></br>
 
 ## 🚀 Projects   
 
 
 # Working Currently 💣
 
-
+</br></br></br>
 
 # Completed 💣
 OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/) 
 
-
+</br></br></br>
 
 ## Skills 🚀
 
