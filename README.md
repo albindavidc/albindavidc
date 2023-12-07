@@ -133,7 +133,10 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
+
+
 ###
+
 
 <br clear="both">
 
@@ -145,6 +148,13 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
 
 ###
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/albindavidc/albindavidc/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
