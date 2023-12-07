@@ -63,15 +63,14 @@ OpenAI Redesign : https://albindavidc.github.io/OpenAI/
 
 </br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&show_icons=true&locale=en&layout=compact" alt="albindavidc" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&show_icons=true&locale=en&layout=compact" alt="albindavidc" /></p>
 </br>
 </br>
 </br>
 </br>
 </br>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albindavidc&show_icons=true&locale=en" alt="albindavidc" /></p>
-</br>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albindavidc&" alt="albindavidc" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albindavidc&show_icons=true&locale=en" alt="albindavidc" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albindavidc&" alt="albindavidc" /></p>
 
