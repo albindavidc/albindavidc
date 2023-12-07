@@ -1,4 +1,7 @@
 # 👋 Hi ALBIN DAVID C here ,
+</br>
+## A passionate frontend developer from India
+
 ## Scroll down ⬇️ to check out my list of Works ..
 
 ## Check out my Portfolio Site 🌐:
@@ -42,8 +45,6 @@ OpenAI Redesign : https://albindavidc.github.io/OpenAI/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/albindavidc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/albindavidc//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://albindavidc.github.io/portfolio/)  
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albindavidc&label=Profile%20views&color=0e75b6&style=flat" alt="albindavidc" /> </p>
 
