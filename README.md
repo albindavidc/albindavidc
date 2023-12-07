@@ -4,7 +4,7 @@
 <h2>Check out my Portfolio Site 🌐:</h2>
 Link to Site: ![Portfolio](https://albindavidc.github.io/portfolio/)
 
-[<img src='./albindavidc/albindavidc/img1' alt='website' height='40'>](https://albindavidc.github.io/portfolio/)  
+[<img src='./albindavidc/albindavidc/img1.png' alt='website' height='40'>](https://albindavidc.github.io/portfolio/)  
 
 <h2>🚀 Projects</h2>    
 
