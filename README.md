@@ -1,16 +1,35 @@
-### Hi there 👋
+👋 Hi ALBIN DAVID C here ,
 
-<!--
-**albindavidc/albindavidc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scroll down ⬇️ to check out my list of Works ..
 
-Here are some ideas to get you started:
+Check out my Portfolio Site 🌐:
+Link to Site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+Working Currently 💣
+
+
+Completed 💣
+OpenAI Redesign : [code](https://albindavidc.github.io/OpenAI/)
+
+
+
+Skills 🚀
+
+Hard Skills 🤖
+Public speaking and seminar facilitation 🎙️
+Event coordination and organization 🎉
+Marketing and Sales 💰
+Artificial intelligence and machine learning 🧠
+E-commerce management 🛍️
+Social media marketing 📱
+Project management 📈
+
+Soft Skills 🧑‍🤝‍🧑
+Leadership 🏆
+Team management 👥
+Communication 🗣️
+Problem-solving 🤔
+Adaptability 🌍
+Time management ⏰
+Attention to detail 👀
