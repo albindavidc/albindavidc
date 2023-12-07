@@ -2,7 +2,7 @@
 <h2>Scroll down ⬇️ to check out my list of Works ..</h2>
 
 <h2>Check out my Portfolio Site 🌐:</h2>
-Link to Site: [albindavidc](https://albindavidc.github.io/portfolio/)
+Link to Site: ([link](https://albindavidc.github.io/portfolio/)) 
 
 
 <h2>🚀 Projects</h2>    
@@ -10,7 +10,7 @@ Link to Site: [albindavidc](https://albindavidc.github.io/portfolio/)
 <h1>Working Currently 💣</h1>
 
 <h1>  Completed 💣</h1>  
-OpenAI Redesign : ![code](https://albindavidc.github.io/OpenAI/)
+OpenAI Redesign : https://albindavidc.github.io/OpenAI/
 
 
 
