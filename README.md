@@ -1,21 +1,21 @@
 <h1>👋 Hi ALBIN DAVID C here ,</h1>
 <h2>Scroll down ⬇️ to check out my list of Works ..</h2>
 
-<h4>Check out my Portfolio Site 🌐:</h4>
+<h3>Check out my Portfolio Site 🌐:</h3>
 Link to Site : [Portfolio](https://albindavidc.github.io/portfolio/)
 
-🚀 Projects
+<h2>🚀 Projects</h2>    
 
-<h3>Working Currently 💣</h3>
+<h2>Working Currently 💣</h2>
 
-<h3>  Completed 💣</h3>  
+<h2>  Completed 💣</h2>  
 OpenAI Redesign : [code](https://albindavidc.github.io/OpenAI/)
 
 
 
-<h3> Skills 🚀</h3> 
+<h2> Skills 🚀</h2> 
 
-<h2>Hard Skills 🤖</h2>
+<h3>Hard Skills 🤖</h3>
 <ul>
     <li>Public speaking and seminar facilitation 🎙️</li>
     <li>Event coordination and organization 🎉</li>
@@ -26,7 +26,7 @@ OpenAI Redesign : [code](https://albindavidc.github.io/OpenAI/)
     <li>Project management 📈</li>
 </ul>
 
-<h2>Soft Skills 🧑‍🤝‍🧑</h2>
+<h3>Soft Skills 🧑‍🤝‍🧑</h3>
 <ul>
     <li>Leadership 🏆</li>
     <li>Team management 👥</li>
