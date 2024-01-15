@@ -139,9 +139,9 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
 <br clear="both">
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=albindavidc&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=1&order=3" height="250" alt="streak graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=albindavidc&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=1&order=3" height="250" alt="streak graph"  />
+</div> -->
 
 
 ###
