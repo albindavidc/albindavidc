@@ -48,8 +48,6 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albindavidc&label=Profile%20views&color=0e75b6&style=flat" alt="albindavidc" /> </p>
-
 
 <br clear="both">
 
