@@ -129,7 +129,7 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
   <a href="https://www.linkedin.com/in/albindavidc/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/918089001112" target="_blank">
+  <a href="https://wa.me/919946799434" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://twitter.com/AlbinDavidC" target="_blank">
