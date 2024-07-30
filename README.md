@@ -10,7 +10,7 @@ Link to the site : [Portfolio](https://albindavidc.github.io/Portfolio/)
 ## 🚀 Projects   
 
 # Working Currently 💣
-Unbound : [Code](https://albindavidc.github.io/OpenAI/](https://github.com/albindavidc/unbound/) 
+Unbound : [Code](https://github.com/albindavidc/unbound/) 
 
 
 </br></br></br>
