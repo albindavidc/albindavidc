@@ -55,7 +55,7 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
 
 <br clear="both">
 
-<h1 align="center">My Favorites</h1>
+<!-- <h1 align="center">My Favorites</h1> -->
 
 ###
 
