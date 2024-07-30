@@ -103,20 +103,10 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
   <a href="https://stackoverflow.com/users/preferences/23056974" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
+  <a href="https://dribbble.com/albindavidc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="albindavidc" height="52" width="40" /></a>
 </div> 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/albindavidc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="albindavidc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/albindavidc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albindavidc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23056974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23056974" height="30" width="40" /></a>
-<a href="https://dribbble.com/albindavidc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="albindavidc" height="30" width="40" /></a>
-<a href="https://www.behance.net/albin-david-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="albin-david-c" height="30" width="40" /></a>
-<a href="https://medium.com/albindavidc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="albindavidc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/albindavidc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="albindavidc" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/albindavidc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="albindavidc" height="30" width="40" /></a>
-</p>
 
 
 
