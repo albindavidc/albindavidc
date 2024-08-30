@@ -26,10 +26,7 @@ OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/)
 ### Hard Skills 🤖
 * Public speaking and seminar facilitation 🎙️
 * Event coordination and organization 🎉
-* Marketing and Sales 💰
-* Artificial intelligence and machine learning 🧠
 * E-commerce management 🛍️
-* Social media marketing 📱
 * Project management 📈
 
 ### Soft Skills 🧑‍🤝‍🧑
