@@ -10,13 +10,18 @@ Link to the site : [Portfolio](https://albindavidc.github.io/Portfolio/)
 ## 🚀 Projects   
 
 # Working Currently 💣
-Unbound : [Code](https://github.com/albindavidc/unbound/) 
 
 
 </br></br></br>
 
 # Completed 💣
+Unbound : [Code](https://github.com/albindavidc/unbound/) 
 OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/) 
+Bard Redesign : [Code](https://github.com/albindavidc/Bard) 
+Google News Redesign : [Code](https://github.com/albindavidc/Google-News.git) 
+Pet Store - BarkX : [Code](https://github.com/albindavidc/BarkX.git) 
+A.S.P.W.C.R : [Code](https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git) 
+
 
 </br></br></br>
 
