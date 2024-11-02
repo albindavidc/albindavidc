@@ -16,7 +16,7 @@ Link to my site : [Portfolio](https://albindavidc.github.io/Portfolio/)
 
 # Completed 💣
 Unbound : [Code](https://github.com/albindavidc/unbound/) </br>
-OpenAI Redesign : [Code](https://albindavidc.github.io/OpenAI/) </br>
+OpenAI Redesign : [Code](https://github.com/albindavidc/OpenAI.git) </br>
 Bard Redesign : [Code](https://github.com/albindavidc/Bard) </br>
 Google News Redesign : [Code](https://github.com/albindavidc/Google-News.git) </br>
 Pet Store - BarkX : [Code](https://github.com/albindavidc/BarkX.git) </br>
