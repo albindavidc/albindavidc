@@ -3,7 +3,7 @@
 ## Scroll down ⬇️ to check out my list of Works ..
 
 #### Check out my Portfolio Site 🌐
-Link to the site : [Portfolio](https://albindavidc.github.io/Portfolio/)
+Link to my site : [Portfolio](https://albindavidc.github.io/Portfolio/)
 
 </br></br></br>
 
