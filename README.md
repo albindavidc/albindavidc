@@ -32,15 +32,15 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br>
 </br></br></br>
 
 
-# Skills 🚀
+## Skills 🚀
 
-### Hard Skills 🤖
+# Hard 🤖
 * Public speaking and seminar facilitation 🎙️
 * Event coordination and organization 🎉
 * E-commerce management 🛍️
 * Project management 📈
 
-### Soft Skills 🧑‍🤝‍🧑
+# Soft 🧑‍🤝‍🧑
 * Leadership 🏆
 * Team management 👥
 * Communication 🗣️
