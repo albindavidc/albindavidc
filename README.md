@@ -9,7 +9,7 @@ Link to my site : [Portfolio](https://albindavidc.github.io/Portfolio/)
 
 ## 🚀 Projects   
 
-# Working Currently 💣
+# Currently Working  💣
 Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
 
 
@@ -32,7 +32,7 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br>
 </br></br></br>
 
 
-## Skills 🚀
+# Skills 🚀
 
 ### Hard Skills 🤖
 * Public speaking and seminar facilitation 🎙️
