@@ -2,6 +2,12 @@
 # A passionate Full Stack Developer from India
 ## Scroll down ⬇️ to check out my list of Works ..
 
+![](./assets/gif-1.gif)
+
+
+
+
+
 #### Check out my Portfolio Site 🌐
 Link to my site : [Portfolio](https://albindavidc.github.io/Portfolio/)
 
