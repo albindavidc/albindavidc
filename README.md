@@ -2,7 +2,7 @@
 # A passionate Full Stack Developer from India
 ## Scroll down ⬇️ to check out my list of Works ..
 
-<img src='./assets/gif-1.gif' style="width=100%; max-width=100%;">
+<img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
 
 
 
