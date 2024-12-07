@@ -9,7 +9,7 @@
 
 </br></br></br>
 
-## 🚀 Projects 🌐
+## 🚀 Projects 
 
 # Currently Working  💣
 Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
@@ -18,7 +18,7 @@ Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
 
 </br></br>
 
-# Completed 💣
+# Completed 🌐
 Unbound : [Code](https://github.com/albindavidc/unbound/) </br>
 OpenAI Redesign : [Code](https://github.com/albindavidc/OpenAI.git) </br>
 Bard Redesign : [Code](https://github.com/albindavidc/Bard) </br>
