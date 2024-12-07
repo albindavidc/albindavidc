@@ -7,12 +7,9 @@
 
 
 
-#### Check out my Portfolio Site 🌐
-Link to my site : [Portfolio](https://albindavidc.github.io/Portfolio/)
-
 </br></br></br>
 
-## 🚀 Projects   
+## 🚀 Projects 🌐
 
 # Currently Working  💣
 Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
