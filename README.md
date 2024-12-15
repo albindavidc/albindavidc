@@ -1,5 +1,5 @@
-# <img src="wave.gif" height="40" alt="Wave Hand"  /> Hi, I'm Albin
-# A passionate Full Stack Developer from India
+<h1 align="center"> <img src="wave.gif" height="40" alt="Wave Hand"  /> Hi, I'm Albin </h1>
+<h2 align="center"> A passionate Full Stack Developer from India </h2>
 ## Scroll down ⬇️ to check out my list of Works ..
 
 <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
