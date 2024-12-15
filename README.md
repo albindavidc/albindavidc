@@ -2,12 +2,11 @@
 <h2 align="center"> A passionate Full Stack Developer from India </h2>
 
 <h2 align="center"> Scroll down ⬇️ to check out my list of Works .. </h2>
-
 <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
 
 
 
-</br></br></br>
+</br></br>
 
 ## 🚀 Projects 
 
