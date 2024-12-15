@@ -6,7 +6,8 @@
 </p>
 <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
 
-
+<h2>Expertise</h2>
+<h3>Full Stack Developer || UX/UI Designer || Front-end Developer || Back-end Developer</h3>
 
 ## 🚀 Projects 
 
