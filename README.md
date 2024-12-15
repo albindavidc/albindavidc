@@ -1,4 +1,4 @@
-# <img src="wave.gif" height="40" alt="Wave Hand"  /> Hi ALBIN DAVID C here ,
+# <img src="wave.gif" height="40" alt="Wave Hand"  /> Hi, I'm Albin ,
 # A passionate Full Stack Developer from India
 ## Scroll down ⬇️ to check out my list of Works ..
 
