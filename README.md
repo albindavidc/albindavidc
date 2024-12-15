@@ -9,6 +9,9 @@
 <h2>Expertise</h2>
 <h3>Full Stack Developer || UX/UI Designer || Front-end Developer || Back-end Developer</h3>
 
+</br></br>
+</br></br>
+
 ## 🚀 Projects 
 
 # Currently Working  💣
