@@ -2,7 +2,7 @@
 <h2 align="center"> "Passionate Full Stack Developer & Designer turning ideas into reality" </h2>
 
 <p align="center"> 
-  Scroll down ⬇️ to check out my list of Works ..
+  Scroll down ⬇️ to check out my list of Works ...
 </p>
 <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
 
