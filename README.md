@@ -15,7 +15,7 @@
 ## 🚀 Projects 
 
 # Ongoing  💣
-<div>
+<div style="display: flex">
   <div style="flex:1;padding:10px;">
     <table>
       <thead>
@@ -29,7 +29,7 @@
         <tr>
           <td>Pivotal</td>
           <td>A highly customizable PMS(Performance Management System)</td>
-          <td><a href:"https://github.com/albindavidc/pivotal.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/pivotal.git">Code</a></td>
         </tr>
       </tbody>
     </table>
