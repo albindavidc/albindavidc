@@ -22,14 +22,34 @@ Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
 </br></br>
 
 # Completed 🌐
-Unbound : [Code](https://github.com/albindavidc/unbound/) </br>
+
+<table>
+  <thread>
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>Unbound</td>
+      <td>[Code](https://github.com/albindavidc/unbound/) </br></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 OpenAI Redesign : [Code](https://github.com/albindavidc/OpenAI.git) </br>
 Bard Redesign : [Code](https://github.com/albindavidc/Bard) </br>
 Google News Redesign : [Code](https://github.com/albindavidc/Google-News.git) </br>
 Pet Store - BarkX : [Code](https://github.com/albindavidc/BarkX.git) </br>
 A.S.P.W.C.R : [Code](https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git) </br>
 Hackathon - Tek-A-Thon - Immersify : [Code](https://github.com/albindavidc/BarkX.git) </br>
-Under-Water-Drone-Project: [Code](https://github.com/albindavidc/Under-Water-Drone-Project.git) </br>
+Under-Water-Drone-Project: [Code](https://github.com/albindavidc/Under-Water-Drone-Project.git) 
+</br>
 C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br>
 
 
