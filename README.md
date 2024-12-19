@@ -45,8 +45,8 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
       </thead>
       <tbody>
         <tr>
-          <td>Unbound Repo</td>
-          <td>A code repository on GitHub.</td>
+          <td>Unbound</td>
+          <td>Highly Customizable E-Commerce Applicaiton</td>
           <td align='center'><a href="https://github.com/albindavidc/unbound">Code</a></td>
         </tr>
         <tr>
