@@ -14,10 +14,28 @@
 
 ## 🚀 Projects 
 
-# Currently Working  💣
-Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
-
-
+# Ongoing  💣
+<div>
+  <div style="flex:1;padding:10px;">
+    <table>
+      <thead>
+        <tr>
+          <th>Project Name</th>
+          <th>Project Description</th>
+          <th>Link to the project</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Pivotal</td>
+          <td>A highly customizable PMS(Performance Management System)</td>
+          <td><a href:"https://github.com/albindavidc/pivotal.git">Code</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+</div>
 
 </br></br>
 
