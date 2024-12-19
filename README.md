@@ -42,16 +42,18 @@ Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
 |---------------|---------------------------------|--------------------------------------------|
 | Unbound Repo  | A code repository on GitHub.   | [Code](https://github.com/albindavidc/unbound) |
 
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
+<div>
+  <div style="float: left; width: 48%; padding: 1%;">
     <h3>Left Partition</h3>
     <p>Content for the left side goes here.</p>
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div style="float: right; width: 48%; padding: 1%;">
     <h3>Right Partition</h3>
     <p>Content for the right side goes here.</p>
   </div>
+  <div style="clear: both;"></div>
 </div>
+
 
 
 
