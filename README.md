@@ -38,22 +38,11 @@ Pivotal : [Code](https://github.com/albindavidc/pivotal.git) </br>
   </tbody>
 </table>
 
+
+<!--
 | Name          | Description                     | Link                                       |
 |---------------|---------------------------------|--------------------------------------------|
 | Unbound Repo  | A code repository on GitHub.   | [Code](https://github.com/albindavidc/unbound) |
-
-### Left Partition
-
-This is content for the left partition.
-
-&nbsp; <!-- Creates some spacing -->
-
-### Right Partition
-
-This is content for the right partition.
-
-
-
 
 
 OpenAI Redesign : [Code](https://github.com/albindavidc/OpenAI.git) </br>
@@ -64,11 +53,89 @@ A.S.P.W.C.R : [Code](https://github.com/albindavidc/Automatic-Suction-Powered-Wa
 Hackathon - Tek-A-Thon - Immersify : [Code](https://github.com/albindavidc/BarkX.git) </br>
 Under-Water-Drone-Project: [Code](https://github.com/albindavidc/Under-Water-Drone-Project.git) 
 </br>
-C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br>
+C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 
 
 
-</br></br></br>
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px; border-right: 1px solid #ddd;">
+    <h3>Projects List</h3>
+    <ul>
+      <li>Unbound Repo: <a href="https://github.com/albindavidc/unbound">Code</a></li>
+      <li>OpenAI Redesign: <a href="https://github.com/albindavidc/OpenAI.git">Code</a></li>
+      <li>Bard Redesign: <a href="https://github.com/albindavidc/Bard">Code</a></li>
+      <li>Google News Redesign: <a href="https://github.com/albindavidc/Google-News.git">Code</a></li>
+      <li>Pet Store - BarkX: <a href="https://github.com/albindavidc/BarkX.git">Code</a></li>
+      <li>A.S.P.W.C.R: <a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></li>
+      <li>Hackathon - Tek-A-Thon - Immersify: <a href="https://github.com/albindavidc/BarkX.git">Code</a></li>
+      <li>Under-Water-Drone-Project: <a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></li>
+      <li>C.A.S.C: <a href="https://github.com/albindavidc/CASC.git">Code</a></li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; padding: 10px;">
+    <h3>Project Details</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Description</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Unbound Repo</td>
+          <td>A code repository on GitHub.</td>
+          <td><a href="https://github.com/albindavidc/unbound">Code</a></td>
+        </tr>
+        <tr>
+          <td>OpenAI Redesign</td>
+          <td>Redesigning OpenAI's UI</td>
+          <td><a href="https://github.com/albindavidc/OpenAI.git">Code</a></td>
+        </tr>
+        <tr>
+          <td>Bard Redesign</td>
+          <td>Redesigning Bard's Interface</td>
+          <td><a href="https://github.com/albindavidc/Bard">Code</a></td>
+        </tr>
+        <tr>
+          <td>Google News Redesign</td>
+          <td>Redesign of Google News</td>
+          <td><a href="https://github.com/albindavidc/Google-News.git">Code</a></td>
+        </tr>
+        <tr>
+          <td>Pet Store - BarkX</td>
+          <td>E-commerce for pet products</td>
+          <td><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
+        </tr>
+        <tr>
+          <td>A.S.P.W.C.R</td>
+          <td>Automatic Suction Powered Wall Climbing Robot</td>
+          <td><a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></td>
+        </tr>
+        <tr>
+          <td>Hackathon - Tek-A-Thon - Immersify</td>
+          <td>Immersive project for a hackathon</td>
+          <td><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
+        </tr>
+        <tr>
+          <td>Under-Water-Drone-Project</td>
+          <td>A project focused on underwater drones</td>
+          <td><a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></td>
+        </tr>
+        <tr>
+          <td>C.A.S.C</td>
+          <td>Control Automation and Safety System</td>
+          <td><a href="https://github.com/albindavidc/CASC.git">Code</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+&nbsp; <!-- Creates some spacing -->
 
 
 ## Skills 🚀
