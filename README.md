@@ -94,7 +94,7 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
         </tr>
         <tr>
           <td>Hackathon - Tek-A-Thon - Immersify</td>
-          <td></td>
+          <td>Innovative project which provides background music while reading.</td>
           <td align='center'><a href="https://github.com/albindavidc/Tek-A-Thon.git">Code</a></td>
         </tr>
         <tr>
