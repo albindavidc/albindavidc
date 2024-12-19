@@ -35,13 +35,12 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
-    <h3>Project Details</h3>
     <table>
       <thead>
         <tr>
-          <th>Name</th>
-          <th>Description</th>
-          <th>Link</th>
+          <th>Project Name</th>
+          <th>Project Description</th>
+          <th>Link to the project</th>
         </tr>
       </thead>
       <tbody>
