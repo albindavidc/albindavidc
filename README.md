@@ -28,7 +28,7 @@
       <tbody>
         <tr>
           <td>Pivotal</td>
-          <td>A highly customizable PMS(Performance Management System) Applicaiton</td>
+          <td>A highly customizable PMS(Project Management System) Applicaiton</td>
           <td align='center'><a href="https://github.com/albindavidc/pivotal.git">Code</a></td>
         </tr>
       </tbody>
