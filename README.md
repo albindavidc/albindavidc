@@ -47,47 +47,47 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
         <tr>
           <td>Unbound Repo</td>
           <td>A code repository on GitHub.</td>
-          <td><a href="https://github.com/albindavidc/unbound">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/unbound">Code</a></td>
         </tr>
         <tr>
           <td>OpenAI Redesign</td>
           <td>Redesigning OpenAI's UI</td>
-          <td><a href="https://github.com/albindavidc/OpenAI.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/OpenAI.git">Code</a></td>
         </tr>
         <tr>
           <td>Bard Redesign</td>
           <td>Redesigning Bard's Interface</td>
-          <td><a href="https://github.com/albindavidc/Bard">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/Bard">Code</a></td>
         </tr>
         <tr>
           <td>Google News Redesign</td>
           <td>Redesign of Google News</td>
-          <td><a href="https://github.com/albindavidc/Google-News.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/Google-News.git">Code</a></td>
         </tr>
         <tr>
           <td>Pet Store - BarkX</td>
           <td>E-commerce for pet products</td>
-          <td><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
         </tr>
         <tr>
           <td>A.S.P.W.C.R</td>
           <td>Automatic Suction Powered Wall Climbing Robot</td>
-          <td><a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></td>
         </tr>
         <tr>
           <td>Hackathon - Tek-A-Thon - Immersify</td>
           <td>Immersive project for a hackathon</td>
-          <td><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
         </tr>
         <tr>
           <td>Under-Water-Drone-Project</td>
           <td>A project focused on underwater drones</td>
-          <td><a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></td>
         </tr>
         <tr>
           <td>C.A.S.C</td>
           <td>Control Automation and Safety System</td>
-          <td><a href="https://github.com/albindavidc/CASC.git">Code</a></td>
+          <td align='center'><a href="https://github.com/albindavidc/CASC.git">Code</a></td>
         </tr>
       </tbody>
     </table>
