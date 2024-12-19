@@ -34,21 +34,6 @@ Under-Water-Drone-Project: [Code](https://github.com/albindavidc/Under-Water-Dro
 C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px; border-right: 1px solid #ddd;">
-    <h3>Projects List</h3>
-    <ul>
-      <li>Unbound Repo: <a href="https://github.com/albindavidc/unbound">Code</a></li>
-      <li>OpenAI Redesign: <a href="https://github.com/albindavidc/OpenAI.git">Code</a></li>
-      <li>Bard Redesign: <a href="https://github.com/albindavidc/Bard">Code</a></li>
-      <li>Google News Redesign: <a href="https://github.com/albindavidc/Google-News.git">Code</a></li>
-      <li>Pet Store - BarkX: <a href="https://github.com/albindavidc/BarkX.git">Code</a></li>
-      <li>A.S.P.W.C.R: <a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></li>
-      <li>Hackathon - Tek-A-Thon - Immersify: <a href="https://github.com/albindavidc/BarkX.git">Code</a></li>
-      <li>Under-Water-Drone-Project: <a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></li>
-      <li>C.A.S.C: <a href="https://github.com/albindavidc/CASC.git">Code</a></li>
-    </ul>
-  </div>
-
   <div style="flex: 1; padding: 10px;">
     <h3>Project Details</h3>
     <table>
