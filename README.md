@@ -94,8 +94,8 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
         </tr>
         <tr>
           <td>Hackathon - Tek-A-Thon - Immersify</td>
-          <td>Immersive project for a hackathon</td>
-          <td align='center'><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
+          <td></td>
+          <td align='center'><a href="https://github.com/albindavidc/Tek-A-Thon.git">Code</a></td>
         </tr>
         <tr>
           <td>Under-Water-Drone-Project</td>
@@ -104,7 +104,7 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
         </tr>
         <tr>
           <td>C.A.S.C</td>
-          <td>Control Automation and Safety System</td>
+          <td>Customer Assistance Smart Cart</td>
           <td align='center'><a href="https://github.com/albindavidc/CASC.git">Code</a></td>
         </tr>
       </tbody>
