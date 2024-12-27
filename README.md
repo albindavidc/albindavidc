@@ -84,7 +84,7 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
         </tr>
         <tr>
           <td>Pet Store - BarkX</td>
-          <td>E-commerce for pet products</td>
+          <td>Pet store</td>
           <td align='center'><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
         </tr>
         <tr>
