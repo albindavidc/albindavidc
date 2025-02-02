@@ -10,6 +10,10 @@
   <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
 </div>
 
+<div style="display:flex; justify-content:center; align-items:center; height:100vh;">
+  <img src="./assets/gif-1.gif">
+</div>
+
 <h2>Specialization</h2>
 <h3>Full Stack Developer || Front-end Developer || Back-end Developer || UX/UI Designer</h3>
 
