@@ -4,7 +4,7 @@
 <p align="center"> 
   Scroll down ⬇️ to check out my list of Works ...
 </p>
-<img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
+<img src="./assets/gif-1.gif" style="display:block; margin:0 auto; width: 100%; max-width: 100%;">
 
 <h2>Specialization</h2>
 <h3>Full Stack Developer || Front-end Developer || Back-end Developer || UX/UI Designer</h3>
