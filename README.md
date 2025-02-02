@@ -11,7 +11,7 @@
 
 
 <h2 align="center">Specialization</h2>
-<h3>Full Stack Developer || Front-end Developer || Back-end Developer || UX/UI Designer</h3>
+<h3 align="center">Full Stack Developer || Front-end Developer || Back-end Developer || UX/UI Designer</h3>
 
 </br></br>
 </br></br>
