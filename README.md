@@ -5,10 +5,9 @@
   Scroll down ⬇️ to check out my list of Works ...
 </p>
 
-
-<div style="text-align: center">
+<p align="center">
   <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
-</div>
+</p>
 
 
 <h2>Specialization</h2>
