@@ -5,8 +5,8 @@
   Scroll down ⬇️ to check out my list of Works ...
 </p>
 
-<p align="center">
-  <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;">
+<p align="center" style="width: 100%; max-width: 100%;">
+  <img src="./assets/gif-1.gif" >
 </p>
 
 
