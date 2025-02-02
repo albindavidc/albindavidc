@@ -10,7 +10,7 @@
 </p>
 
 
-<h2>Specialization</h2>
+<h2 align="center">Specialization</h2>
 <h3>Full Stack Developer || Front-end Developer || Back-end Developer || UX/UI Designer</h3>
 
 </br></br>
