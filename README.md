@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="wave.gif" height="40" alt="Wave Hand"  /> Hi, I'm Albin </h1>
 <h2 align="center"> "Passionate Full Stack Developer & Designer turning ideas into reality" </h2>
 
+
 <p align="center"> 
   Scroll down ⬇️ to check out my list of Works ...
 </p>
