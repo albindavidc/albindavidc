@@ -143,9 +143,10 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 </br></br></br>
 
 <br clear="both">
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/albindavidc/count.svg?"  />
-</div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=albindavidc&label=Profile%20views&color=0e75b6&style=flat" alt="albindavidc" /> </p>
+</div> -->
 
 ###
 
