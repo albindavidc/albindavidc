@@ -147,6 +147,9 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 <!--   <img src="https://profile-counter.glitch.me/albindavidc/count.svg?"  />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=albindavidc&label=Profile%20views&color=0e75b6&style=flat" alt="albindavidc" /> </p> -->
 
+![](https://hit.yhype.me/github/profile?account_id=105530284)
+
+
   ![](https://komarev.com/ghpvc/?username=albindavidc&style=for-the-badge&color=blueviolet)
 
 </div>
