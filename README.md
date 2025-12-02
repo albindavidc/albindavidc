@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="wave.gif" height="40" alt="Wave Hand"  /> Hi, I'm Albin </h1>
-<h2 align="center"> "Passionate Full Stack Developer & Designer turning ideas into reality" </h2>
+<h2 align="center"> "Professional Full Stack Developer & Designer turning ideas into reality" </h2>
 
 
 <p align="center"> 
