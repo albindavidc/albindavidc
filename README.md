@@ -5,10 +5,10 @@
 ### ✨ "Passionate Full Stack Developer & Designer turning ideas into reality" ✨
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Front--end%20Developer-44B78B?style=for-the-badge&logo=angular&logoColor=white" alt="Front-end" />
-  <img src="https://img.shields.io/badge/Back--end%20Developer-333333?style=for-the-badge&logo=node.js&logoColor=white" alt="Back-end" />
-  <img src="https://img.shields.io/badge/UX%2FUI%20Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Front--end%20Developer-CC342D?style=for-the-badge&logo=angular&logoColor=white" alt="Front-end" />
+  <img src="https://img.shields.io/badge/Back--end%20Developer-2E8B57?style=for-the-badge&logo=node.js&logoColor=white" alt="Back-end" />
+  <img src="https://img.shields.io/badge/UX%2FUI%20Designer-08457E?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
 </p>
 
 ---
@@ -35,6 +35,9 @@
 
 <!-- <p align="center" >
 ⚡
+blue - 007ACC  005F73   08457E
+
+orange - D2691E
   <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;" >
 </p> -->
 
