@@ -21,14 +21,16 @@
 | Tailwind / Bootstrap | PostgreSQL / MongoDB | Prototyping |
 | | ExpressJS / NestJS | |
 
----
+</br>
+</br>
+</br>
+
 
 ### 🚀 Quick Stats & Connect
   
-📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>
-🔭 **I’m currently working on:** <a href="https://github.com/albindavidc/nirman-client.git">Nirman</a>  
-🌱 **I’m currently learning:** NestJS
+📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>   🔭 **I’m currently working on:** <a href="https://github.com/albindavidc/nirman-client.git">Nirman</a>    🌱 **I’m currently learning:** NestJS
 
+---
 </div>
 
 <!-- <p align="center" >
