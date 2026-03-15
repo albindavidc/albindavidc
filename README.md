@@ -25,7 +25,7 @@
 
 ### 🚀 Quick Stats & Connect
   
-📫 **How to reach me:** <a href="https://github.com/albindavidc/albindavidc/edit/main/README.md#connect-me">Go Below</a>
+📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>
 🔭 **I’m currently working on:** <a href="https://github.com/albindavidc/nirman-client.git">Nirman</a>  
 🌱 **I’m currently learning:** NestJS
 
