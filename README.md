@@ -1,18 +1,41 @@
-<h1 align="center"> <img src="wave.gif" height="40" alt="Wave Hand"  /> Hi, I'm Albin </h1>
-<h2 align="center"> "Passionate Full Stack Developer & Designer turning ideas into reality" </h2>
 
+<div align="center">
+<h2> <img src="wave.gif" height="40" alt="Wave Hand"  />   Hi, I'm Albin! </h2>
 
-<p align="center"> 
-  Scroll down ⬇️ to check out my list of Works ...
+### ✨ "Passionate Full Stack Developer & Designer turning ideas into reality" ✨
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Front--end%20Developer-44B78B?style=for-the-badge&logo=angular&logoColor=white" alt="Front-end" />
+  <img src="https://img.shields.io/badge/Back--end%20Developer-333333?style=for-the-badge&logo=node.js&logoColor=white" alt="Back-end" />
+  <img src="https://img.shields.io/badge/UX%2FUI%20Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
 </p>
 
-<p align="center" >
+---
+
+### 🛠️ Professional Toolkit
+
+| 💻 Front-end | ⚙️ Back-end | 🎨 Design |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 / Angular | Node.js  | Figma / Adobe XD |
+| Tailwind / Bootstrap | PostgreSQL / MongoDB | Prototyping |
+| | ExpressJS / NestJS | |
+
+---
+
+### 🚀 Quick Stats & Connect
+  
+📫 **How to reach me:** <a href="https://github.com/albindavidc/albindavidc/edit/main/README.md#connect-me">Go Below</a>
+🔭 **I’m currently working on:** <a href="https://github.com/albindavidc/nirman-client.git">Nirman</a>  
+🌱 **I’m currently learning:** NestJS
+
+</div>
+
+<!-- <p align="center" >
+⚡
   <img src="./assets/gif-1.gif" style="width: 100%; max-width: 100%;" >
-</p>
+</p> -->
 
-
-<h2 align="center">Specializations</h2>
-<h3 align="center">Full Stack Developer || Front-end Developer || Back-end Developer || UX/UI Designer</h3>
 
 </br></br>
 </br></br>
