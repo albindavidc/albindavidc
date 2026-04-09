@@ -19,7 +19,7 @@
 | :--- | :--- | :--- |
 | HTML5 / CSS3 / Angular | Node.js  | Figma / Adobe XD |
 | Tailwind / Bootstrap | PostgreSQL / MongoDB | Prototyping |
-| | ExpressJS / NestJS | |
+| | ExpressJS / NestJS | Figma Make / Stitch |
 
 </br>
 </br>
