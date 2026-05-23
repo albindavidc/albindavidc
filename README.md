@@ -249,9 +249,21 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albindavidc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=albindavidc&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=1&order=3" height="250" alt="streak graph"  />
-</div> -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=albindavidc&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=albindavidc&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=albindavidc&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
+
+
+
+
+
+
 
 
 ###
