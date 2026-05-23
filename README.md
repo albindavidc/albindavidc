@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/UX%2FUI%20Designer-08457E?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Front--end%20Developer-6D1A36?style=for-the-badge&logo=angular&logoColor=white" alt="Front-end" />
+  <img src="https://img.shields.io/badge/Back--end%20Developer-0F7A5C?style=for-the-badge&logo=node.js&logoColor=white" alt="Back-end" />
+  <img src="https://img.shields.io/badge/UX%2FUI%20Designer-0E7490?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
+</p> -->
+
 ---
 
 ### 🛠️ Professional Toolkit
