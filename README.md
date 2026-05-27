@@ -36,9 +36,7 @@
 </br>
 
 
-### 🚀 Quick Stats & Connect
-  
-📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>   
+### 🚀 Quick Stats & Connect 📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>   
 
 
 <!--
