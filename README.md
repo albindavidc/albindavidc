@@ -84,7 +84,7 @@ orange - D2691E
 
 </br></br>
 
-<!--
+
 Unbound: [Code](https://github.com/albindavidc/unbound)
 OpenAI Redesign : [Code](https://github.com/albindavidc/OpenAI.git) </br>
 Bard Redesign : [Code](https://github.com/albindavidc/Bard) </br>
@@ -93,7 +93,7 @@ Pet Store - BarkX : [Code](https://github.com/albindavidc/BarkX.git) </br>
 A.S.P.W.C.R : [Code](https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git) </br>
 Hackathon - Tek-A-Thon - Immersify : [Code](https://github.com/albindavidc/BarkX.git) </br>
 Under-Water-Drone-Project: [Code](https://github.com/albindavidc/Under-Water-Drone-Project.git) </br>
-C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
+C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> 
 
 
 <div style="display: flex;">
