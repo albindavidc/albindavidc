@@ -95,6 +95,7 @@ Hackathon - Tek-A-Thon - Immersify : [Code](https://github.com/albindavidc/BarkX
 Under-Water-Drone-Project: [Code](https://github.com/albindavidc/Under-Water-Drone-Project.git) </br>
 C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 
+
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
     <table>
@@ -102,59 +103,127 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
         <tr>
           <th>Project Name</th>
           <th>Project Description</th>
-          <th>Link to the project</th>
+          <th>Live Link</th>
+          <th>Repository</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Unbound</td>
-          <td>Highly Customizable E-Commerce Applicaiton</td>
-          <td align='center'><a href="https://github.com/albindavidc/unbound">Code</a></td>
+          <td>Nirman</td>
+          <td>Construction and project management platform focused on streamlined workflows and operational efficiency.</td>
+          <td align="center">—</td>
+          <td align="center"><a href="https://github.com/albindavidc/nirman-client">Code</a></td>
         </tr>
         <tr>
-          <td>OpenAI Redesign</td>
-          <td>Redesigning OpenAI's UI</td>
-          <td align='center'><a href="https://github.com/albindavidc/OpenAI.git">Code</a></td>
+          <td>Nexus</td>
+          <td>A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.</td>
+          <td align="center">—</td>
+          <td align="center"><a href="https://github.com/albindavidc/nexus">Code</a></td>
         </tr>
         <tr>
-          <td>Bard Redesign</td>
-          <td>Redesigning Bard's Interface</td>
-          <td align='center'><a href="https://github.com/albindavidc/Bard">Code</a></td>
+          <td>Arogya</td>
+          <td>Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices.</td>
+          <td align="center"><a href="#">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/arogya">Code</a></td>
         </tr>
         <tr>
-          <td>Google News Redesign</td>
-          <td>Redesign of Google News</td>
-          <td align='center'><a href="https://github.com/albindavidc/Google-News.git">Code</a></td>
+          <td>Keep Archive</td>
+          <td>Digital archive and productivity platform for organizing, preserving, and managing social media content.</td>
+          <td align="center"><a href="#">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/keep-archive">Code</a></td>
+        </tr>
+        <!-- <tr>
+          <td>Arche</td>
+          <td>Private digital platform focused on intelligent workflows, organization, and modern user experiences.</td>
+          <td align="center"><a href="#">Live</a></td>
+          <td align="center">Private</td>
         </tr>
         <tr>
-          <td>Pet Store - BarkX</td>
-          <td>Pet store</td>
-          <td align='center'><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
-        </tr>
+          <td>Next Offer</td>
+          <td>Private platform designed for managing offers, deals, and business-oriented workflows.</td>
+          <td align="center"><a href="#">Live</a></td>
+          <td align="center">Private</td>
+        </tr> -->
         <tr>
-          <td>A.S.P.W.C.R</td>
-          <td>Automatic Suction Powered Wall Climbing Robot</td>
-          <td align='center'><a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></td>
+          <td>Memora</td>
+          <td>Floating desktop note-taking application for capturing thoughts, quick notes, and productivity workflows.</td>
+          <td align="center">Windows App</td>
+          <td align="center"><a href="https://github.com/albindavidc/memora">Code</a></td>
         </tr>
-        <tr>
-          <td>Hackathon - Tek-A-Thon - Immersify</td>
-          <td>Innovative project which provides background music while reading.</td>
-          <td align='center'><a href="https://github.com/albindavidc/Tek-A-Thon.git">Code</a></td>
-        </tr>
-        <tr>
-          <td>Under-Water-Drone-Project</td>
-          <td>A project focused on underwater drones</td>
-          <td align='center'><a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></td>
-        </tr>
-        <tr>
-          <td>C.A.S.C</td>
-          <td>Customer Assistance Smart Cart</td>
-          <td align='center'><a href="https://github.com/albindavidc/CASC.git">Code</a></td>
-        </tr>
+         <tr>
+        <td>Immersify</td>
+        <td>Hackathon project delivering immersive background music experiences while reading content.</td>
+        <td align="center">—</td>
+        <td align="center"><a href="https://github.com/albindavidc/Tek-A-Thon.git">Code</a></td>
+      </tr>
+      <tr>
+        <td>Chrono Mind</td>
+        <td>Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.</td>
+        <td align="center"><a href="#">Live</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Code</a></td>
+      </tr>
+      <tr>
+        <td>Math Logic</td>
+        <td>AI-powered calculator and mathematical problem-solving platform built for analytical workflows.</td>
+        <td align="center"><a href="#">Live</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/math-logic">Code</a></td>
+      </tr>
+      <tr>
+        <td>Unbound</td>
+        <td>Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.</td>
+        <td align="center">—</td>
+        <td align="center"><a href="https://github.com/albindavidc/unbound">Code</a></td>
+      </tr>
       </tbody>
     </table>
+
+<details>
+  <summary><strong>Read More</strong></summary>
+
+  <br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Project Name</th>
+        <th>Project Description</th>
+        <th>Live Link</th>
+        <th>Repository</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>BarkX</td>
+        <td>Pet store platform designed for discovering and managing pet-related products and services.</td>
+        <td align="center">—</td>
+        <td align="center"><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
+      </tr>
+      <tr>
+        <td>A.S.P.W.C.R</td>
+        <td>Automatic suction-powered wall climbing robot project focused on robotics and mechanical innovation.</td>
+        <td align="center">—</td>
+        <td align="center"><a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></td>
+      </tr>
+      <tr>
+        <td>Under Water Drone Project</td>
+        <td>Exploratory underwater drone project focused on aquatic navigation and robotics systems.</td>
+        <td align="center">—</td>
+        <td align="center"><a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></td>
+      </tr>
+      <tr>
+        <td>C.A.S.C</td>
+        <td>Customer Assistance Smart Cart designed to enhance retail shopping experiences through smart automation.</td>
+        <td align="center">—</td>
+        <td align="center"><a href="https://github.com/albindavidc/CASC.git">Code</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
   </div>
 </div>
+
 
 
 &nbsp; <!-- Creates some spacing -->
