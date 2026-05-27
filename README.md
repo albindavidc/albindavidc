@@ -54,7 +54,11 @@ orange - D2691E
 
 ## 🚀 Projects 
 
+
+
+<!-- 
 # Ongoing  💣
+
 <div style="display: flex">
   <div style="flex:1;padding:10px;">
     <table>
@@ -75,7 +79,7 @@ orange - D2691E
     </table>
   </div>
   
-</div>
+</div> -->
 
 </br></br>
 
