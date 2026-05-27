@@ -82,7 +82,6 @@ orange - D2691E
 </div> -->
 
 </br></br>
-
 # Completed 🌐
 <!--
 Unbound: [Code](https://github.com/albindavidc/unbound)
@@ -94,8 +93,6 @@ A.S.P.W.C.R : [Code](https://github.com/albindavidc/Automatic-Suction-Powered-Wa
 Hackathon - Tek-A-Thon - Immersify : [Code](https://github.com/albindavidc/BarkX.git) </br>
 Under-Water-Drone-Project: [Code](https://github.com/albindavidc/Under-Water-Drone-Project.git) </br>
 C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
-
-
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
@@ -160,6 +157,8 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 
 
 &nbsp; <!-- Creates some spacing -->
+</br></br>
+</br></br>
 
 
 ## Skills 🚀
