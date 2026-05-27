@@ -22,23 +22,13 @@
 
 ### 🛠️ Professional Toolkit
 
-| 💻 Front-end | ⚙️ Back-end | 🎨 Design |
-| :--- | :--- | :--- |
-| HTML5 / CSS3 / Angular | Node.js  | Figma / Adobe XD |
-| Tailwind / Bootstrap | PostgreSQL / MongoDB | Prototyping |
-| | ExpressJS / NestJS | Figma Make / Stitch |
-
-
-
-### 🛠️ Tech Stack & Tools
-
 | 💻 Front-end | ⚙️ Back-end | 🎨 Design | 🤖 AI & Dev Tools |
 | --- | --- | --- | --- |
 | HTML5 / CSS3 | Node.js | Figma / Adobe XD | Google AI Studio |
-| Angular | PostgreSQL / MongoDB | Prototyping | Antigravity|
-| TypeScript / JavaScript | ExpressJS / NestJS | Figma Make / Stitch | Claude Code |
-| Tailwind / Bootstrap | Prisma / Mongoose | Framer  | Cursor  |
-|  |  |  | Copilot |
+| Angular / NgRx / RxJS | PostgreSQL / MongoDB | Figma Make / Stitch | Antigravity|
+| TypeScript / JavaScript | ExpressJS / NestJS | Framer | Claude Code |
+| Tailwind / Bootstrap | Prisma / Mongoose |  Claude | Cursor  |
+|  | Gemini genai | Nano banana | Copilot |
 
 
 </br>
