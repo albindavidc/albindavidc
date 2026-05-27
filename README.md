@@ -28,6 +28,19 @@
 | Tailwind / Bootstrap | PostgreSQL / MongoDB | Prototyping |
 | | ExpressJS / NestJS | Figma Make / Stitch |
 
+
+
+### 🛠️ Tech Stack & Tools
+
+| 💻 Front-end | ⚙️ Back-end | 🎨 Design | 🤖 AI & Dev Tools |
+| --- | --- | --- | --- |
+| HTML5 / CSS3 | Node.js | Figma / Adobe XD | Google AI Studio |
+| Angular | PostgreSQL / MongoDB | Prototyping | Antigravity|
+| TypeScript / JavaScript | ExpressJS / NestJS | Figma Make / Stitch | Claude Code |
+| Tailwind / Bootstrap | Prisma / Mongoose | Framer  | Cursor  |
+|  |  |  | Copilot |
+
+
 </br>
 </br>
 </br>
