@@ -200,6 +200,7 @@ orange - D2691E
 
 <br clear="both">
 <div align="center">
+  
 <!-- <img src="https://profile-counter.glitch.me/albindavidc/count.svg?"  />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=albindavidc&label=Profile%20views&color=0e75b6&style=flat" alt="albindavidc" /> </p>
   ![](https://hit.yhype.me/github/profile?account_id=105530284)
@@ -231,10 +232,11 @@ orange - D2691E
 
 
 ###
+
 <br clear="both">
 <h1 align="center">Connect me</h1>
-###
 
+###
 
 
 <br clear="both">
@@ -263,8 +265,10 @@ orange - D2691E
 
 
 ###
+
 <br clear="both">
 <div align="center">
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=albindavidc&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=albindavidc&theme=merko&hide_border=true)<br/>
