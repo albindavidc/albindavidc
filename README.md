@@ -52,9 +52,9 @@ orange - D2691E
 </br></br>
 </br></br>
 
-## 🚀 Projects 
 
 
+# 🚀 Projects 
 
 <!-- 
 # Ongoing  💣
@@ -82,7 +82,8 @@ orange - D2691E
 </div> -->
 
 </br></br>
-# Completed 🌐
+
+### Completed 🌐
 <!--
 Unbound: [Code](https://github.com/albindavidc/unbound)
 OpenAI Redesign : [Code](https://github.com/albindavidc/OpenAI.git) </br>
