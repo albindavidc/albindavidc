@@ -228,25 +228,6 @@ C.A.S.C : [Code](https://github.com/albindavidc/CASC.git) </br> -->
 
 &nbsp; <!-- Creates some spacing -->
 </br></br>
-</br></br>
-
-
-## Skills 🚀
-
-# Hard 🤖
-* Public speaking and seminar facilitation 🎙️
-* Event coordination and organization 🎉
-* E-commerce management 🛍️
-* Project management 📈
-
-# Soft 🧑‍🤝‍🧑
-* Leadership 🏆
-* Team management 👥
-* Communication 🗣️
-* Problem-solving 🤔
-* Adaptability 🌍
-* Time management ⏰
-* Attention to detail 👀
 
 </br></br></br>
 
