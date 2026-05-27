@@ -227,34 +227,17 @@ orange - D2691E
 
 
 
-   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=albindavidc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=albindavidc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=albindavidc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=albindavidc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-</div> 
+</br></br></br>
 
 
 ###
-
 <br clear="both">
-
 <h1 align="center">Connect me</h1>
-
 ###
 
 
 
-
 <br clear="both">
-
 <div align="center">
   <a href="mailto:albindavidc007@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -276,15 +259,12 @@ orange - D2691E
 
 
 
+</br></br></br>
 
 
 ###
-
-
 <br clear="both">
-
 <div align="center">
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=albindavidc&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=albindavidc&theme=merko&hide_border=true)<br/>
