@@ -93,13 +93,13 @@ orange - D2691E
         <tr>
           <td>Arogya</td>
           <td>Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices.</td>
-          <td align="center"><a href="#">Live</a></td>
+          <td align="center"><a href="arogya.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/arogya">Code</a></td>
         </tr>
         <tr>
           <td>Keep Archive</td>
           <td>Digital archive and productivity platform for organizing, preserving, and managing social media content.</td>
-          <td align="center"><a href="#">Live</a></td>
+          <td align="center"><a href="keep-archive.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/keep-archive">Code</a></td>
         </tr>
         <!-- <tr>
@@ -117,25 +117,19 @@ orange - D2691E
         <tr>
           <td>Memora</td>
           <td>Floating desktop note-taking application for capturing thoughts, quick notes, and productivity workflows.</td>
-          <td align="center">Windows App</td>
+          <td align="center"><a href="https://github.com/albindavidc/memora/releases/tag/v2.0.0">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/memora">Code</a></td>
         </tr>
-         <tr>
-        <td>Immersify</td>
-        <td>Hackathon project delivering immersive background music experiences while reading content.</td>
-        <td align="center">—</td>
-        <td align="center"><a href="https://github.com/albindavidc/Tek-A-Thon.git">Code</a></td>
-      </tr>
       <tr>
         <td>Chrono Mind</td>
         <td>Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.</td>
-        <td align="center"><a href="#">Live</a></td>
+        <td align="center"><a href="chrono-mind.netlify.app/">Live</a></td>
         <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Code</a></td>
       </tr>
       <tr>
         <td>Math Logic</td>
         <td>AI-powered calculator and mathematical problem-solving platform built for analytical workflows.</td>
-        <td align="center"><a href="#">Live</a></td>
+        <td align="center"><a href="math-logic.netlify.app/">Live</a></td>
         <td align="center"><a href="https://github.com/albindavidc/math-logic">Code</a></td>
       </tr>
       <tr>
@@ -143,6 +137,12 @@ orange - D2691E
         <td>Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.</td>
         <td align="center">—</td>
         <td align="center"><a href="https://github.com/albindavidc/unbound">Code</a></td>
+      </tr>
+         <tr>
+        <td>Immersify</td>
+        <td>Hackathon project delivering immersive background music experiences while reading content.</td>
+        <td align="center">—</td>
+        <td align="center"><a href="https://github.com/albindavidc/Tek-A-Thon.git">Code</a></td>
       </tr>
       </tbody>
     </table>
