@@ -24,12 +24,12 @@
 
 | 💻 Front-end | ⚙️ Back-end | 🎨 Design | 🤖 AI & Dev Tools |
 | --- | --- | --- | --- |
-| HTML5 / CSS3 | Node.js | Figma / Adobe XD | Google AI Studio |
+| HTML5 / CSS3 / SASS | Node.js | Figma / Adobe XD | Google AI Studio |
 | Angular / NgRx / RxJS | PostgreSQL / MongoDB | Figma Make / Stitch | Antigravity|
 | TypeScript / JavaScript | ExpressJS / NestJS | Framer | Claude Code |
 | Tailwind / Bootstrap | Prisma / Mongoose |  Claude Design | Cursor  |
 |  | AWS / GCP / Docker | Nano banana | Copilot |
-| | Gemini genai | | |
+| | Gemini genai | | Notion |
 
 
 </br>
