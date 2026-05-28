@@ -215,7 +215,7 @@ orange - D2691E
 ###
 
 <br clear="both">
-<h1 align="center">Let's chat</h1>
+<h1 align="center">💬 Let’s Chat</h1>
 
 ###
 
