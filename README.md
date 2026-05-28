@@ -191,6 +191,7 @@ orange - D2691E
 <h1 align="center">My Favorites</h1> 
   -->
 
+</br></br></br>
 
 ---
 
@@ -204,9 +205,6 @@ orange - D2691E
 
 
 </br>
-</br>
-</br>
-
 
 ---
 
