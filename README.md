@@ -209,12 +209,15 @@ orange - D2691E
 
 
 
-</br></br>
+</br></br></br>
+---
+
+</br></br></br>
 
 ###
 
 <br clear="both">
-<h1 align="center">Connect me</h1>
+<h3 align="center">Connect me</h3>
 
 ###
 
