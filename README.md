@@ -217,7 +217,7 @@ orange - D2691E
 ###
 
 <br clear="both">
-<h3 align="center">Connect me</h3>
+<h1 align="center" style="text-decoration: none;">Connect me</h1>
 
 ###
 
