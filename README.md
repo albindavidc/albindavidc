@@ -66,7 +66,7 @@ orange - D2691E
 # Ongoing  💣 
 </div> -->
 
-</br></br>
+</br>
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
@@ -220,7 +220,6 @@ orange - D2691E
 
 ###
 
-
 <br clear="both">
 <div align="center">
   <a href="mailto:albindavidc007@gmail.com" target="_blank">
@@ -244,7 +243,7 @@ orange - D2691E
 
 
 </br></br></br>
-
+---
 
 ### 🛠️ Professional Toolkit
 
@@ -259,6 +258,8 @@ orange - D2691E
 |  | Git / Github | Canva / Photoshop / Blender | Eslint / Prettier |
 | | Socket.io / PNPM | | |
 
+---
+</br></br></br>
 
 
 ###
