@@ -197,33 +197,16 @@ orange - D2691E
 </div>
 
 
-
-&nbsp; <!-- Creates some spacing -->
-</br></br>
-
-</br></br></br>
-
-<br clear="both">
-<div align="center">
-  
-<!-- <img src="https://profile-counter.glitch.me/albindavidc/count.svg?"  />
+<!-- 
+<img src="https://profile-counter.glitch.me/albindavidc/count.svg?"  />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=albindavidc&label=Profile%20views&color=0e75b6&style=flat" alt="albindavidc" /> </p>
   ![](https://hit.yhype.me/github/profile?account_id=105530284)
-  ![](https://komarev.com/ghpvc/?username=albindavidc&style=for-the-badge&color=blueviolet) -->
+  ![](https://komarev.com/ghpvc/?username=albindavidc&style=for-the-badge&color=blueviolet) 
+  
+  
+<h1 align="center">My Favorites</h1> 
+  -->
 
-</div>
-
-###
-
-
-<br clear="both">
-
-<!-- <h1 align="center">My Favorites</h1> -->
-
-###
-
-
-<div align="center">
 
 
 
