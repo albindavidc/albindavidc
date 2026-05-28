@@ -30,6 +30,7 @@
 | EJS | Prisma / Mongoose |  Claude Design | Cursor  |
 | Tailwind / Bootstrap | AWS / GCP / Docker | Nano banana | Copilot |
 | | Vercel / Netlify | Notion | Gemini genai |
+| | Git / Github | Canva / Photoshop / Blender | |
 
 
 </br>
