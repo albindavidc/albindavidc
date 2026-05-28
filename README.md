@@ -98,13 +98,13 @@ orange - D2691E
         <tr>
           <td>Arogya</td>
           <td>Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices.</td>
-          <td align="center"><a href="arogya.vercel.app/">Live</a></td>
+          <td align="center"><a href="https://arogya.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/arogya">Code</a></td>
         </tr>
         <tr>
           <td>Keep Archive</td>
           <td>Digital archive and productivity platform for organizing, preserving, and managing social media content.</td>
-          <td align="center"><a href="keep-archive.vercel.app/">Live</a></td>
+          <td align="center"><a href="https://keep-archive.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/keep-archive">Code</a></td>
         </tr>
         <!-- <tr>
@@ -128,13 +128,13 @@ orange - D2691E
       <tr>
         <td>Chrono Mind</td>
         <td>Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.</td>
-        <td align="center"><a href="chrono-mind.netlify.app/">Live</a></td>
+        <td align="center"><a href="https://chrono-mind.netlify.app/">Live</a></td>
         <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Code</a></td>
       </tr>
       <tr>
         <td>Math Logic</td>
         <td>AI-powered calculator and mathematical problem-solving platform built for analytical workflows.</td>
-        <td align="center"><a href="math-logic.netlify.app/">Live</a></td>
+        <td align="center"><a href="https://math-logic.netlify.app/">Live</a></td>
         <td align="center"><a href="https://github.com/albindavidc/math-logic">Code</a></td>
       </tr>
       <tr>
