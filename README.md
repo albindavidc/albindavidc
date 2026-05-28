@@ -25,12 +25,13 @@
 | 💻 Front-end | ⚙️ Back-end | 🎨 Design | 🤖 AI & Dev Tools |
 | --- | --- | --- | --- |
 | HTML5 / CSS3 / SASS | Node.js | Figma / Adobe XD | Google AI Studio |
-| Angular / NgRx / RxJS | PostgreSQL / MongoDB | Figma Make / Stitch | Antigravity|
+| Angular / NgRx / RxJS | PostgreSQL / MongoDB / Postman | Figma Make / Stitch | Antigravity|
 | TypeScript / JavaScript | ExpressJS / NestJS | Framer | Claude Code |
 | EJS | Prisma / Mongoose |  Claude Design | Cursor  |
-| Tailwind / Bootstrap | AWS / GCP / Docker | Nano banana | Copilot |
-| | Vercel / Netlify | Notion | Gemini genai |
-| | Git / Github | Canva / Photoshop / Blender | |
+| Tailwind / Bootstrap | AWS / GCP / Docker /NGINX | Nano banana | Copilot |
+| Chart.JS | Vercel / Netlify | Notion | Gemini genai |
+|  | Git / Github | Canva / Photoshop / Blender | Eslint / Prettier |
+| | Socket.io / PNPM | | |
 
 
 </br>
