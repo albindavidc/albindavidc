@@ -28,7 +28,7 @@
 | Angular / NgRx / RxJS | PostgreSQL / MongoDB | Figma Make / Stitch | Antigravity|
 | TypeScript / JavaScript | ExpressJS / NestJS | Framer | Claude Code |
 | Tailwind / Bootstrap | Prisma / Mongoose |  Claude Design | Cursor  |
-|  | AWS/GCP/Docker | Nano banana | Copilot |
+|  | AWS / GCP / Docker | Nano banana | Copilot |
 | | Gemini genai | | |
 
 
