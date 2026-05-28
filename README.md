@@ -29,8 +29,7 @@
 | TypeScript / JavaScript | ExpressJS / NestJS | Framer | Claude Code |
 | EJS | Prisma / Mongoose |  Claude Design | Cursor  |
 | Tailwind / Bootstrap | AWS / GCP / Docker | Nano banana | Copilot |
-| | Gemini genai | | Notion |
-| | Vercel / Netlify | | |
+| | Vercel / Netlify | Notion | Gemini genai |
 
 
 </br>
