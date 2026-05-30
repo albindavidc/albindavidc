@@ -42,7 +42,7 @@ orange - D2691E
 </br></br>
 
 
-<h1 align="left">🚀 Projects Completed 🌐</h1>
+<h1 align="center">🚀 Projects Completed 🌐</h1>
 
 
 <!-- 
