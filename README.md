@@ -181,6 +181,34 @@ orange - D2691E
 </div>
 
 
+# OSS
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <table>
+      <thead>
+        <tr>
+          <th>Project Name</th>
+          <th>Project Description</th>
+          <th>Contributions</th>
+          <th>Repository</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Monkeytype</td>
+          <td>A highly customizable, minimalist online typing platform featuring real-time analytics for a global community of over 2 million users. Contributed quote tagging and filtering features to enhance the core typing experience.</td>
+          <td align="center">
+            <a href="https://github.com/search?q=repo%3Amonkeytypegame%2Fmonkeytype++albindavidc&type=pullrequests">Pull Requests</a><br>
+            <a href="https://github.com/monkeytypegame/monkeytype/discussions?discussions_q=is%3Aopen++author%3Aalbindavidc+">Discussions</a>
+          </td>
+          <td align="center"><a href="https://github.com/monkeytypegame/monkeytype">Code</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
 <!-- 
 <img src="https://profile-counter.glitch.me/albindavidc/count.svg?"  />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=albindavidc&label=Profile%20views&color=0e75b6&style=flat" alt="albindavidc" /> </p>
