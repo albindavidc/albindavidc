@@ -201,7 +201,8 @@ orange - D2691E
           <td>Monkeytype</td>
           <td>A highly customizable, minimalist online typing platform featuring real-time analytics for a global community of over 2 million users. Contributed quote tagging and filtering features to enhance the core typing experience.</td>
           <td align="center">
-            <a href="https://github.com/search?q=repo%3Amonkeytypegame%2Fmonkeytype++albindavidc&type=pullrequests">Pull Requests</a><br>
+            <a href="https://github.com/search?q=repo%3Amonkeytypegame%2Fmonkeytype++albindavidc&type=pullrequests">Pull Requests</a>
+            <br></br>
             <a href="https://github.com/monkeytypegame/monkeytype/discussions?discussions_q=is%3Aopen++author%3Aalbindavidc+">Discussions</a>
           </td>
           <td align="center"><a href="https://github.com/monkeytypegame/monkeytype">Code</a></td>
