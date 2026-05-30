@@ -42,7 +42,7 @@ orange - D2691E
 </br></br>
 
 
-
+<p align="left" >
 # 🚀 Projects Completed 🌐
 
 
@@ -179,6 +179,10 @@ orange - D2691E
 
   </div>
 </div>
+
+
+
+</br></br></br>
 
 
 # OSS
