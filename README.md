@@ -205,7 +205,7 @@ orange - D2691E
             <br></br>
             <a href="https://github.com/monkeytypegame/monkeytype/discussions?discussions_q=is%3Aopen++author%3Aalbindavidc+">Discussions</a>
           </td>
-          <td align="center"><a href="https://github.com/monkeytypegame/monkeytype">Code</a></td>
+          <td align="center"><a href="[https://github.com/monkeytypegame/monkeytype](https://github.com/albindavidc/monkeytype)">Code</a></td>
         </tr>
       </tbody>
     </table>
