@@ -66,13 +66,13 @@ orange - D2691E
         <tr>
           <td>Nexus</td>
           <td>A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.</td>
-          <td align="center">—</td>
+          <td align="center"><a href="https://nexus.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nexus">Code</a></td>
         </tr>
         <tr>
           <td>Nirman</td>
           <td>Construction and project management platform focused on streamlined workflows and operational efficiency.</td>
-          <td align="center">—</td>
+          <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nirman-client">Code</a></td>
         </tr>
         <tr>
