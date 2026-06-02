@@ -119,7 +119,7 @@ orange - D2691E
       </tr>
       <tr>
         <td>Unbound</td>
-        <td>Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.</td>
+        <td>Highly customizable e-commerce platform focused on scalable and flexible shopping experiences. (main project)</td>
         <td align="center">—</td>
         <td align="center"><a href="https://github.com/albindavidc/unbound">Code</a></td>
       </tr>
