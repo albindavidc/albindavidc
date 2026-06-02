@@ -71,7 +71,7 @@ orange - D2691E
         </tr>
         <tr>
           <td>Nirman</td>
-          <td>Construction and project management platform focused on streamlined workflows and operational efficiency. (main project)</td>
+          <td>Construction and project management platform focused on streamlined workflows and operational efficiency.</td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nirman-client">Code</a></td>
         </tr>
@@ -119,7 +119,7 @@ orange - D2691E
       </tr>
       <tr>
         <td>Unbound</td>
-        <td>Highly customizable e-commerce platform focused on scalable and flexible shopping experiences. (main project)</td>
+        <td>Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.</td>
         <td align="center">—</td>
         <td align="center"><a href="https://github.com/albindavidc/unbound">Code</a></td>
       </tr>
