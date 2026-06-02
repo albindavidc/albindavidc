@@ -71,7 +71,7 @@ orange - D2691E
         </tr>
         <tr>
           <td>Nirman</td>
-          <td>Construction and project management platform focused on streamlined workflows and operational efficiency.</td>
+          <td>Construction and project management platform focused on streamlined workflows and operational efficiency. (main project)</td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nirman-client">Code</a></td>
         </tr>
