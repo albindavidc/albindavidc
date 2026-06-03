@@ -64,6 +64,12 @@ orange - D2691E
       </thead>
       <tbody>
         <tr>
+          <td>Udyama</td>
+          <td>A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.</td>
+          <td align="center"><a href="https://udyama.vercel.app/">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/udyama">Code</a></td>
+        </tr>
+        <tr>
           <td>Nexus</td>
           <td>A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.</td>
           <td align="center"><a href="https://nexus.albindavidc.com/">Live</a></td>
