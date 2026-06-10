@@ -249,7 +249,7 @@ orange - D2691E
 ## 🔥 LeetCode Journey
 <p align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/albindavidc?theme=dark&font=Noto%20Sans%20Display&colors=%23000D06%2C%233B4E10%2C%2391B302%2C%2368B587%2C%23A3D20C%2C%23A3D20C%2C%20%23A3D20C%2C%20%23A3D20C)
+![LeetCode Stats](https://leetcard.jacoblin.cool/albindavidc?theme=dark&font=Mali&colors=%23000D06%2C%233B4E10%2C%2391B302%2C%2368B587%2C%23A3D20C%2C%23A3D20C%2C%20%23A3D20C%2C%20%23A3D20C)
 
 <!-- <img src=""/> -->
 </p>
