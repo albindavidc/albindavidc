@@ -18,7 +18,11 @@
   <img src="https://img.shields.io/badge/UX%2FUI%20Designer-0E7490?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
 </p> -->
 
+</br></br>
+</br></br>
 
+### 🌱 Humility & Gratitude
+> *Everything we have learned, discovered, or innovated is built upon the life’s work of others. We are just identifying the patterns and building on top of what they already created. Therefore, whatever we achieve, much of the credit belongs to our ancestors, predecessors, and the people who work alongside us to make those achievements possible.*
 
 
 <!--
