@@ -24,6 +24,10 @@
 ### 🌱 Humility & Gratitude
 > *Everything we have learned, discovered, or innovated is built upon the life’s work of others. We are just identifying the patterns and building on top of what they already created. Therefore, whatever we achieve, much of the credit belongs to our ancestors, predecessors, and the people who work alongside us to make those achievements possible.*
 
+</br></br>
+> Humility is recognizing that your achievements rely on the contributions of others
+> 
+> Gratitude is being deeply thankful for their support.
 
 <!--
 ### 🚀 Quick Connect 📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>   
