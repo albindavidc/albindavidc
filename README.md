@@ -26,13 +26,16 @@
 
 </br></br>
 > Humility is recognizing that our achievements are the result of both our efforts and the contributions of those around us. <br>
-> ***CTA:** Understand and value our strengths. Eliminate our weakness. Acknowledge our limitations --<br>
-> (Appreciate the support. Accept feedback. Learn from mistakes. Adjust & Improve.).*
+>  ***Mindset:** Understand and value our strengths. Eliminate our weaknesses. Acknowledge our limitations --* <br>
+> ***CTA:** Appreciate the support. Accept feedback. Learn from mistakes. Adjust & Improve.).*
 >
 > <br>
 > 
 > Gratitude is being deeply thankful for the people, opportunities, and support we receive. <br>
 > ***CTA:** Value what we have and what we've been given.*
+> Express thanks sincerely for what we have, and what we recieve. Give back when possible.
+
+
 <!--
 ### 🚀 Quick Connect 📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>   
 ### 🚀 Quick Stats & Connect 
