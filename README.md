@@ -26,7 +26,7 @@
 
 </br></br>
 > Humility is recognizing that our achievements rely on the contributions of others.<br>
-> ***CTA:** Understand and value our strengths. Acknowledge our limitations.*
+> ***CTA:** Understand and value our strengths. Eliminate our weakness. Acknowledge our limitations.*
 > 
 > Gratitude is being deeply thankful for the people, opportunities, and support we receive. <br>
 > ***CTA:** Value what we have and what we've been given.*
