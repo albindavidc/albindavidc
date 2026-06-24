@@ -31,9 +31,9 @@
 >
 > <br>
 > 
-> Gratitude is being deeply thankful for the people, opportunities, and support we receive. <br>
-> ***CTA:** Value what we have and what we've been given.*
-> Express thanks sincerely for what we have, and what we recieve. Give back when possible.
+> Gratitude is the feeling of being deeply thankful for the kindness, help, or benefits we receive. <br>
+> ***Mindset:** Value what we have and what we've been given.* <br>
+> ***CTA:** Express sincere thanks. Give back when possible.*
 
 
 <!--
