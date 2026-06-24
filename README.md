@@ -27,7 +27,7 @@
 </br></br>
 > Humility is recognizing that your achievements rely on the contributions of others. (CTA: Understand and value our strength)
 > 
-> Gratitude is being deeply thankful for their support. (CTA: Value what's given)
+> Gratitude is being deeply thankful for their support. (CTA: Value what we have and what's given)
 
 <!--
 ### 🚀 Quick Connect 📫 **How to reach me:** <a href="https://github.com/albindavidc#connect-me">Go Below</a>   
