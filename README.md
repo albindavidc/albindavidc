@@ -2,7 +2,7 @@
 <div align="center">
 <h2> <img src="wave.gif" height="40" alt="Wave Hand"  />   Hi, I'm Albin! </h2>
 
-### ✨ "Passionate Full Stack Developer & Designer turning ideas into reality" ✨
+### ✨ "Passionate Full Stack Developer turning ideas into reality" ✨
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack" />
