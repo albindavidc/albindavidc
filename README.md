@@ -27,7 +27,7 @@
 </br></br>
 > Humility is recognizing that our achievements are the result of both our efforts and the contributions of those around us. <br>
 >  ***Mindset:** Understand and value our strengths. Eliminate our weaknesses. Acknowledge our limitations --* <br>
-> ***CTA:** Seek feedback. Appreciate constructive criticism. Learn from mistakes. Adjust & Improve.*
+> ***CTA:** Ask questions. Seek feedback. Appreciate constructive criticism. Learn from mistakes. Adjust & Improve.*
 >
 > <br>
 > 
