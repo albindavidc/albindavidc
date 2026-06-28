@@ -22,7 +22,9 @@
 </br></br>
 
 ### 🌱 Humility & Gratitude
-> "***Everything we have learned, discovered, or innovated is built upon the life’s work of others. We are just identifying the patterns and building on top of what they already created. Therefore, whatever we achieve, much of the credit belongs to our ancestors, predecessors, and the people who work alongside us to make those achievements possible.***"
+> "***Everything we have learned, discovered, or innovated is built upon the life’s work of others. We are just identifying the patterns and building on top of what they already created. Therefore, whatever we achieve, much of the credit belongs to our ancestors, predecessors, and the people who work alongside us to make those achievements possible.***" <br>
+>
+> "We know very little about the things that we have already discovered and innovated. Every breakthrough, every question and every feedback reveals how much more there is to learn."
 
 </br></br>
 > Humility is recognizing that our achievements are the result of both our efforts and the contributions of the people around us. <br>
@@ -33,7 +35,7 @@
 > <br>
 > 
 > Gratitude is the feeling of being deeply thankful for the kindness, help, or benefits we receive. <br>
-> ***Mindset:** Value what we have and what we've been given.* <br>
+> ***Mindset:** Value what we have and what we've been given. Value the effort made by other to achieve their success* <br>
 > ***CTA:** Express sincere thanks. Give back when possible without expecting anything in return.*<br>
 > ***Habits:** Acknowledge others' kindness. Reflect on daily blessings. Celebrate others' success.*
 
