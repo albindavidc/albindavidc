@@ -21,7 +21,7 @@
 </br></br>
 </br></br>
 
-### 🌱 Humility & Gratitude
+### 🌱 Intellectual Humility & Feeling Gratitude
 > "***Everything we have learned, discovered, or innovated is built upon the life’s work of others. We are just identifying the patterns and building on top of what they already created. Therefore, whatever we achieve, much of the credit belongs to our ancestors, predecessors, and the people who work alongside us to make those achievements possible.***" <br>
 >
 > "We know very little about the things that we have already discovered and innovated. Every breakthrough, every question and every feedback reveals how much more there is to learn."
