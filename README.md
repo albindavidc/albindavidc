@@ -160,7 +160,7 @@ orange - D2691E
           <td>
             AI-powered calculator and mathematical problem-solving platform built for analytical workflows.
             <br><br>
-            <strong>Frontend:</strong>AI Studio - React<br>
+            <strong>Frontend:</strong> AI Studio - React<br>
           </td>
           <td align="center"><a href="https://math-logic.netlify.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/math-logic">Code</a></td>
