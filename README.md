@@ -88,7 +88,7 @@ orange - D2691E
           <td>
             A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.
             <br><br>
-            <strong>Frontend:</strong> AI Studio - React 
+            <strong>Frontend:</strong> AI Studio - React, Vercel
           </td>
           <td align="center"><a href="https://udyama.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/udyama">Code</a></td>
@@ -98,8 +98,8 @@ orange - D2691E
           <td>
             A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.
             <br><br>
-            <strong>Frontend:</strong> Angular<br>
-            <strong>Backend:</strong> Node.js, Express.js, MongoDB, Socket.io, Modular Architecture, AWS, S3
+            <strong>Frontend:</strong> Angular, Vercel<br>
+            <strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, Socket.io, Modular Architecture, AWS, S3
           </td>
           <td align="center"><a href="https://nexus.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nexus">Frontend</a> 
@@ -111,8 +111,8 @@ orange - D2691E
           <td>
             Construction and project management platform focused on streamlined workflows and operational efficiency.
             <br><br>
-            <strong>Frontend:</strong> Angular<br>
-            <strong>Backend:</strong> Node.js, NestJS, Prisma, Redis, Socket.io, Clean Architecture, AWS, S3
+            <strong>Frontend:</strong> Angular, Vercel<br>
+            <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, AWS, S3
           </td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nirman-client">Frontend</a> 
@@ -124,7 +124,7 @@ orange - D2691E
           <td>
             Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices. (Still in progress)
             <br><br>
-            <strong>Frontend:</strong> AI Studio - Angular, Gemini - Nano banana <br>
+            <strong>Frontend:</strong> AI Studio - Angular, Gemini - Nano banana, Vercel <br>
           </td>
           <td align="center"><a href="https://arogya.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/arogya">Code</a></td>
@@ -134,7 +134,7 @@ orange - D2691E
           <td>
             Digital archive and productivity platform for organizing, preserving, and managing social media content.
             <br><br>
-            <strong>Frontend:</strong> AI Studio - Angular <br>
+            <strong>Frontend:</strong> AI Studio - Angular, Vercel <br>
           </td>
           <td align="center"><a href="https://keep-archive.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/keep-archive">Code</a></td>
@@ -154,7 +154,7 @@ orange - D2691E
           <td>
             Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.
             <br><br>
-            <strong>Frontend:</strong> AI Studio - React <br>
+            <strong>Frontend:</strong> AI Studio - React, Vercel <br>
           </td>
           <td align="center"><a href="https://chrono-mind.netlify.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Code</a></td>
@@ -164,7 +164,7 @@ orange - D2691E
           <td>
             AI-powered calculator and mathematical problem-solving platform built for analytical workflows.
             <br><br>
-            <strong>Frontend:</strong> AI Studio - React<br>
+            <strong>Frontend:</strong> AI Studio - React, Vercel<br>
           </td>
           <td align="center"><a href="https://math-logic.netlify.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/math-logic">Code</a></td>
@@ -175,7 +175,7 @@ orange - D2691E
             Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.
             <br><br>
             <strong>Frontend:</strong> EJS<br>
-            <strong>Backend:</strong> Node.js, Express.js, MongoDB, MVC Architecture
+            <strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, MVC Architecture
           </td>
           <td align="center">—</td>
           <td align="center"><a href="https://github.com/albindavidc/unbound">Monorepo</a></td>
