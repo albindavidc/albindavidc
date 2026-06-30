@@ -154,7 +154,7 @@ orange - D2691E
           <td>
             Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.
             <br><br>
-            <strong>Frontend:</strong> AI Studio - React, Vercel <br>
+            <strong>Frontend:</strong> AI Studio - React, Netlify <br>
           </td>
           <td align="center"><a href="https://chrono-mind.netlify.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Code</a></td>
@@ -164,7 +164,7 @@ orange - D2691E
           <td>
             AI-powered calculator and mathematical problem-solving platform built for analytical workflows.
             <br><br>
-            <strong>Frontend:</strong> AI Studio - React, Vercel<br>
+            <strong>Frontend:</strong> AI Studio - React, Netlify<br>
           </td>
           <td align="center"><a href="https://math-logic.netlify.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/math-logic">Code</a></td>
