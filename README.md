@@ -36,7 +36,7 @@
 > <br>
 > 
 > Gratitude is the feeling of being deeply thankful for the kindness, help, or benefits we receive. Respect other people's efforts.<br>
-> ***Mindset:** Value what we have and what we've been given. Value the effort made by other to achieve their success* <br>
+> ***Mindset:** Value what we have and what we've been given. Value the effort made by others to achieve their success* <br>
 > ***CTA:** Express sincere thanks. Give back when possible without expecting anything in return --*<br>
 > ***Habits:** Acknowledge others' kindness. Reflect on daily blessings. Celebrate others' success.*
 
