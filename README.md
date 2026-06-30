@@ -124,7 +124,7 @@ orange - D2691E
           <td>
             Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices. (Still in progress)
             <br><br>
-            <strong>Frontend:</strong> AI Studio - Angular <br>
+            <strong>Frontend:</strong> AI Studio - Angular, Gemini - Nano banana <br>
           </td>
           <td align="center"><a href="https://arogya.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/arogya">Code</a></td>
