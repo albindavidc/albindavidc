@@ -102,7 +102,7 @@ orange - D2691E
             <strong>Backend:</strong> Node.js, Express.js, MongoDB, Modular Architecture
           </td>
           <td align="center"><a href="https://nexus.albindavidc.com/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/nexus">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/nexus">Frontend</a><a href="https://github.com/albindavidc/nexus-server.git">Backend</a></td>
         </tr>
         <tr>
           <td>Nirman</td>
@@ -113,7 +113,7 @@ orange - D2691E
             <strong>Backend:</strong> Node.js, NestJS, Prisma, Redis, Clean Architecture
           </td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/nirman-client">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/nirman-client">Frontend</a> <a href="https://github.com/albindavidc/nirman-server.git">Backend</a></td>
         </tr>
         <tr>
           <td>Arogya</td>
