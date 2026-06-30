@@ -88,8 +88,7 @@ orange - D2691E
           <td>
             A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.
             <br><br>
-            <strong>Frontend:</strong> AI Studio - React <br>
-            <strong>Backend:</strong> Firebase
+            <strong>Frontend:</strong> AI Studio - React 
           </td>
           <td align="center"><a href="https://udyama.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/udyama">Code</a></td>
@@ -110,7 +109,7 @@ orange - D2691E
           <td>
             Construction and project management platform focused on streamlined workflows and operational efficiency.
             <br><br>
-            <strong>Frontend:</strong>Angular<br>
+            <strong>Frontend:</strong> Angular<br>
             <strong>Backend:</strong> Node.js, NestJS, Prisma, Clean Architecture
           </td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
