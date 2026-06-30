@@ -98,7 +98,7 @@ orange - D2691E
           <td>
             A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.
             <br><br>
-            <strong>Frontend:</strong> Angular, Vercel<br>
+            <strong>Frontend:</strong> Angular, Vercel, Feature-based Architecture<br>
             <strong>Backend:</strong> Node.js, Express.js, Mongoose, MongoDB, Socket.io, Modular Architecture, AWS, S3
           </td>
           <td align="center"><a href="https://nexus.albindavidc.com/">Live</a></td>
@@ -111,7 +111,7 @@ orange - D2691E
           <td>
             Construction and project management platform focused on streamlined workflows and operational efficiency.
             <br><br>
-            <strong>Frontend:</strong> Angular, NgRx, Vercel<br>
+            <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture<br>
             <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, PNPM, AWS, S3
           </td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
