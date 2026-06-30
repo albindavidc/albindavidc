@@ -110,7 +110,7 @@ orange - D2691E
             Construction and project management platform focused on streamlined workflows and operational efficiency.
             <br><br>
             <strong>Frontend:</strong> Angular<br>
-            <strong>Backend:</strong> Node.js, NestJS, Prisma, Clean Architecture
+            <strong>Backend:</strong> Node.js, NestJS, Prisma, Redis, Clean Architecture
           </td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nirman-client">Code</a></td>
