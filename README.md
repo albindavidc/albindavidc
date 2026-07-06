@@ -29,7 +29,7 @@
 
 </br></br>
 > Humility is recognizing that our achievements are the result of both our efforts and the contributions of the people around us. <br>
->  ***Mindset:** Understand and value our strengths. Eliminate our weaknesses. Learn from mistakes. Accept there is always more to learn.* <br>
+>  ***Mindset:** Understand and value strengths. Eliminate weaknesses. View mistakes as opportunities. Accept there is always more to learn.* <br>
 > ***CTA:** Ask questions. Seek feedback. Appreciate constructive criticism. Reflect & Learn from mistakes. Adjust & Improve --* <br>
 > ***Habits**: Listen more than you speak. Observe more than you judge. Admit mistakes. Give credit where it's due.*
 >
