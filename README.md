@@ -29,14 +29,14 @@
 
 </br></br>
 > Humility is recognizing that our achievements are the result of both our efforts and the contributions of the people around us. <br>
->  ***Mindset:** Understand and value our strengths. Eliminate our weaknesses. Identify opportunities. Acknowledge our limitations.* <br>
+>  ***Mindset:** Understand and value our strengths. Eliminate our weaknesses. View mistakes as opportunites to grow. Accept there is always more to learn.* <br>
 > ***CTA:** Ask questions. Seek feedback. Appreciate constructive criticism. Reflect & Learn from mistakes. Adjust & Improve --* <br>
-> ***Habits**: Listen more than you speak. Observe more than you judge. Admit mistakes. Give credit to others.*
+> ***Habits**: Listen more than you speak. Observe more than you judge. Admit mistakes. Give credit where it's due.*
 >
 > <br>
 > 
 > Gratitude is the feeling of being deeply thankful for the kindness, help, or benefits we receive. Respect other people's efforts.<br>
-> ***Mindset:** Value what we have and what we've been given. Value the effort made by others to achieve their success* <br>
+> ***Mindset:** Value what we have and what we've been given. Value the effort and sacrifices made by others to achieve their success* <br>
 > ***CTA:** Express sincere thanks. Give back when possible without expecting anything in return --*<br>
 > ***Habits:** Acknowledge others' kindness. Reflect on daily blessings. Celebrate others' success.*
 
