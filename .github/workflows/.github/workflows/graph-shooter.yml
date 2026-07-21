@@ -1,0 +1,24 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs automatically every day at midnight UTC
+  workflow_dispatch:      # Allows you to run it manually anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 2  # Required so it doesn't clutter your commit history
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          fps: 70             # ⚡ Increase this to make the game faster (default is 40)
+          strategy: 'random'  # Options: 'random', 'column', or 'row'
