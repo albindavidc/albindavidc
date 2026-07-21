@@ -20,5 +20,5 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
-          fps: 70             # ⚡ Increase this to make the game faster (default is 40)
+          fps: 30             # ⚡ Increase this to make the game faster (default is 40)
           strategy: 'random'  # Options: 'random', 'column', or 'row'
