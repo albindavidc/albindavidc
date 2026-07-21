@@ -26,7 +26,11 @@ jobs:
 
     # speed up the animation
       - name: Make snake fast
-        run: sed -i 's/200ms/50ms/g' dist/snake.svg
+        run: |
+          sed -i 's/12s/3s/g' dist/snake.svg
+          sed -i 's/10s/2.5s/g' dist/snake.svg
+          sed -i 's/15s/3.75s/g' dist/snake.svg
+          sed -i 's/20s/5s/g' dist/snake.svg
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
