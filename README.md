@@ -422,6 +422,8 @@ orange - D2691E
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/albindavidc/albindavidc/output/snake.svg" style="animation-duration: 3s !important;" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/albindavidc/albindavidc/output/snake.svg" style="animation-duration: 3s !important;" alt="Snake animation" /> -->
+
+<img src="game.gif" alt="My GitHub Space Shooter Game" width="100%" />
 
 ###
