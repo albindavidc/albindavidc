@@ -422,6 +422,6 @@ orange - D2691E
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/albindavidc/albindavidc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/albindavidc/albindavidc/output/snake.svg" style="animation-duration: 0.5s;" alt="Snake animation" />
 
 ###
