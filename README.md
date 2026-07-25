@@ -91,7 +91,7 @@ orange - D2691E
             <strong>Frontend:</strong> AI Studio - React, Vercel
           </td>
           <td align="center"><a href="https://udyama.vercel.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/udyama">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/udyama">Repo</a></td>
         </tr>
         <tr>
           <td>Nexus AI</td>
@@ -127,7 +127,7 @@ orange - D2691E
             <strong>Frontend:</strong> AI Studio - Angular, Gemini - Nano banana, Vercel <br>
           </td>
           <td align="center"><a href="https://arogya.vercel.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/arogya">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/arogya">Repo</a></td>
         </tr>
         <tr>
           <td>Keep Archive</td>
@@ -137,7 +137,7 @@ orange - D2691E
             <strong>Frontend:</strong> AI Studio - Angular, Vercel <br>
           </td>
           <td align="center"><a href="https://keep-archive.vercel.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/keep-archive">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/keep-archive">Repo</a></td>
         </tr>
         <tr>
           <td>Memora</td>
@@ -147,7 +147,7 @@ orange - D2691E
             <strong>Frontend:</strong> Antigravity - Electron, React<br>
           </td>
           <td align="center"><a href="https://github.com/albindavidc/memora/releases/tag/v2.0.0">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/memora">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/memora">Repo</a></td>
         </tr>
         <tr>
           <td>Chrono Mind</td>
@@ -157,7 +157,7 @@ orange - D2691E
             <strong>Frontend:</strong> AI Studio - React, Netlify <br>
           </td>
           <td align="center"><a href="https://chrono-mind.netlify.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Repo</a></td>
         </tr>
         <tr>
           <td>Math Logic</td>
@@ -167,7 +167,7 @@ orange - D2691E
             <strong>Frontend:</strong> AI Studio - React, Netlify<br>
           </td>
           <td align="center"><a href="https://math-logic.netlify.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/math-logic">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/math-logic">Repo</a></td>
         </tr>
         <tr>
           <td>Unbound</td>
@@ -179,7 +179,7 @@ orange - D2691E
             <strong>Deployment:</strong> Google Cloud Platform (GCP), Nginx, PM2, Git, DNS, SSL/TLS
           </td>
           <td align="center"><a href="https://unbound.albindavidc.com/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/unbound">Monorepo</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/unbound">Repo</a></td>
         </tr>
         <tr>
           <td>Immersify</td>
@@ -188,7 +188,7 @@ orange - D2691E
             <br><br>
           </td>
           <td align="center">—</td>
-          <td align="center"><a href="https://github.com/albindavidc/Tek-A-Thon.git">Code</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/Tek-A-Thon.git">Repo</a></td>
         </tr>
       </tbody>
     </table>
@@ -213,25 +213,25 @@ orange - D2691E
         <td>BarkX</td>
         <td>Pet store platform designed for discovering and managing pet-related products and services.</td>
         <td align="center">—</td>
-        <td align="center"><a href="https://github.com/albindavidc/BarkX.git">Code</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/BarkX.git">Repo</a></td>
       </tr>
       <tr>
         <td>A.S.P.W.C.R</td>
         <td>Automatic suction-powered wall climbing robot project focused on robotics and mechanical innovation.</td>
         <td align="center">—</td>
-        <td align="center"><a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Code</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/Automatic-Suction-Powered-Wall-Climbing-Robot.git">Repo</a></td>
       </tr>
       <tr>
         <td>Under Water Drone Project</td>
         <td>Exploratory underwater drone project focused on aquatic navigation and robotics systems.</td>
         <td align="center">—</td>
-        <td align="center"><a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Code</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/Under-Water-Drone-Project.git">Repo</a></td>
       </tr>
       <tr>
         <td>C.A.S.C</td>
         <td>Customer Assistance Smart Cart designed to enhance retail shopping experiences through smart automation.</td>
         <td align="center">—</td>
-        <td align="center"><a href="https://github.com/albindavidc/CASC.git">Code</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/CASC.git">Repo</a></td>
       </tr>
     </tbody>
   </table>
