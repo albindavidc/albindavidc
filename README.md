@@ -175,7 +175,7 @@ orange - D2691E
             Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.
             <br><br>
             <strong>Frontend:</strong> EJS<br>
-            <strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, MVC Architecture
+            <strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, MVC Architecture<br>
             <strong>Deployment:</strong> Google Cloud Platform (GCP), Nginx, PM2, Git, DNS, SSL/TLS
           </td>
           <td align="center"><a href="https://unbound.albindavidc.com/">Live</a></td>
