@@ -176,8 +176,9 @@ orange - D2691E
             <br><br>
             <strong>Frontend:</strong> EJS<br>
             <strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, MVC Architecture
+            <strong>Deployment:</strong> Google Cloud Platform (GCP), Nginx, PM2, Git, DNS, SSL/TLS
           </td>
-          <td align="center">—</td>
+          <td align="center"><a href="https://unbound.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/unbound">Monorepo</a></td>
         </tr>
         <tr>
