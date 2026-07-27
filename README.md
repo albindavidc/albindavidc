@@ -84,16 +84,6 @@ orange - D2691E
       </thead>
       <tbody>
         <tr>
-          <td>Udyama</td>
-          <td>
-            A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.
-            <br><br>
-            <strong>Frontend:</strong> AI Studio - React, Vercel
-          </td>
-          <td align="center"><a href="https://udyama.vercel.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/udyama">Repo</a></td>
-        </tr>
-        <tr>
           <td>Nexus AI</td>
           <td>
             A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.
@@ -105,6 +95,16 @@ orange - D2691E
           <td align="center"><a href="https://github.com/albindavidc/nexus">Frontend</a> 
             <br> <br>
             <a href="https://github.com/albindavidc/nexus-server.git">Backend</a></td>
+        </tr>
+        <tr>
+          <td>Udyama</td>
+          <td>
+            A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.
+            <br><br>
+            <strong>Frontend:</strong> AI Studio - React, Vercel
+          </td>
+          <td align="center"><a href="https://udyama.vercel.app/">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/udyama">Repo</a></td>
         </tr>
         <tr>
           <td>Nirman</td>
@@ -179,7 +179,7 @@ orange - D2691E
             <strong>Deployment:</strong> Google Cloud Platform (GCP), Nginx, PM2, Git, DNS, SSL/TLS, OAuth
           </td>
           <td align="center"><a href="https://unbound.albindavidc.com/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/unbound">Repo</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/unbound">Monorepo</a></td>
         </tr>
         <tr>
           <td>Immersify</td>
