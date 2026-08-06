@@ -370,20 +370,7 @@ orange - D2691E
 </br></br></br>
 
 
-### 🛠️ Professional Toolkit
-
-| 💻 Front-end | ⚙️ Back-end | 🎨 Design | 🤖 AI & Dev Tools |
-| --- | --- | --- | --- |
-| HTML5 / CSS3 / SASS | Node.js | Figma / Adobe XD | Google AI Studio |
-| Angular / NgRx / RxJS | PostgreSQL / MongoDB / Postman | Figma Make / Stitch | Antigravity|
-| TypeScript / JavaScript | ExpressJS / NestJS | Framer | Claude Code |
-| EJS | Prisma / Mongoose |  Claude Design | Cursor  |
-| Tailwind / Bootstrap | AWS / GCP / Docker / NGINX | Nano banana | Copilot |
-| Chart.JS | Vercel / Netlify | Notion | Gemini genai |
-|  | Git / Github | Canva / Photoshop / Blender | Eslint / Prettier |
-| | Socket.io / PNPM | | |
-
-
+# 🛠️ Professional Toolkit
 
 ## 💻 Languages
 
@@ -415,16 +402,13 @@ orange - D2691E
 | GitHub | Framer | Gemini (GenAI) | Cursor |
 | Docker | Canva | Claude | Copilot |
 | AWS | Photoshop | Claude Code | Postman |
-| GCP | Blender | Claude Design | PNPM |
+| GCP | Blender | Claude Design | NPM/PNPM |
 | Vercel | Adobe XD | Nano Banana | Antigravity |
-| Netlify | Notion | Stitch | NGINX |
-|  |  | Figma Make |  |
+| Netlify | Notion | Stitch |  |
+| NGINX |  | Figma Make |  |
 
 
 
-
-
----
 
 </br></br></br>
 
