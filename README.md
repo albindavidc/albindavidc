@@ -383,7 +383,52 @@ orange - D2691E
 |  | Git / Github | Canva / Photoshop / Blender | Eslint / Prettier |
 | | Socket.io / PNPM | | |
 
+
+
+## 💻 Languages
+
+| 🌐 Web Languages | 💻 Programming Languages | 🗄️ Database |
+| --- | --- | --- |
+| HTML5 *(Markup Language)* | JavaScript | MongoDB Query Language (MQL) |
+| CSS3 *(Style Sheet Language)* | TypeScript | PostgreSQL |
+| SASS *(Style Sheet Preprocessor)* |  |  |
+| EJS *(Template Language)* |  |  |
+
+---
+
+## 🧩 Frameworks & Libraries
+
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 📊 Utilities |
+| --- | --- | --- | --- |
+| Angular | Node.js  | Mongoose | RxJS |
+| NgRx | Express.js  | Prisma  | Chart.js |
+| Tailwind CSS | NestJS  | TypeORM | ESLint |
+| Bootstrap | Socket.IO |  | Prettier |
+
+---
+
+## 🛠️ Tools, Platforms & Services
+
+| ☁️ Cloud & DevOps | 🎨 Design | 🤖 AI | 🚀 Development |
+| --- | --- | --- | --- |
+| Git | Figma | Google AI Studio | VS Code |
+| GitHub | Framer | Gemini (GenAI) | Cursor |
+| Docker | Canva | Claude | Copilot |
+| AWS | Photoshop | Claude Code | Postman |
+| GCP | Blender | Claude Design | PNPM |
+| Vercel | Adobe XD | Nano Banana | Antigravity |
+| Netlify | Notion | Stitch | NGINX |
+|  |  | Figma Make |  |
+
+
+
+
+
+---
+
 </br></br></br>
+
+
 
 ---
 
