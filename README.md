@@ -88,8 +88,8 @@ orange - D2691E
           <td>
             <strong>Portfolio Project:</strong> An AI-driven educational platform designed to enhance the learning experience through personalized content and smart study tools.
             <br><br>
-            <strong>Frontend:</strong> Angular, SignalStore, Vercel, Tailwind CSS, PrimeNg, RxJS, NgRx, TS, Feature + Component-based Architecture<br>
-            <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, Type ORM, Modular + Clean Architecture, Zod Validation, AWS, JWT, Passport, Argon, Brevo, TS, CQRS, Nginx, PM2, Git, DNS, SSL/TLS, PNPM
+            <strong>Frontend:</strong> Angular, SignalStore, Vercel, Tailwind CSS, PrimeNg, RxJS, NgRx, TS, Feature + Component-based Architecture, Es-lint, Prettier.<br>
+            <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, Type ORM, Modular + Clean Architecture, Zod Validation, AWS, JWT, Passport, Argon, Brevo, TS, CQRS, Nginx, PM2, Git, DNS, SSL/TLS, PNPM, Es-lint, Prettier.
           </td>
           <td align="center"><a href="https://vidya.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/vidya-ai">Frontend</a> 
