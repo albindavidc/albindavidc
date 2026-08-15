@@ -99,7 +99,7 @@ orange - D2691E
         <tr>
           <td>Pixel Mastery</td>
           <td>
-            A comprehensive platform focused on mastering pixel-perfect web design, modern UI development principles, and interactive animations.
+            Personal Project: A comprehensive platform focused on mastering pixel-perfect web design, modern UI development principles, and interactive animations.
             <br><br>
             <strong>Frontend:</strong> AI Studio, React, Netlify
           </td>
@@ -122,7 +122,7 @@ orange - D2691E
         <tr>
           <td>Udyama</td>
           <td>
-            A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.
+            Personal Project: A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.
             <br><br>
             <strong>Frontend:</strong> AI Studio - React, Vercel
           </td>
@@ -145,7 +145,7 @@ orange - D2691E
         <tr>
           <td>Arogya</td>
           <td>
-            Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices. (Still in progress)
+            Personal Project: Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices. (Still in progress)
             <br><br>
             <strong>Frontend:</strong> AI Studio - Angular, Gemini - Nano banana, Vercel <br>
           </td>
@@ -155,7 +155,7 @@ orange - D2691E
         <tr>
           <td>Keep Archive</td>
           <td>
-            Digital archive and productivity platform for organizing, preserving, and managing social media content.
+            Personal Project: Digital archive and productivity platform for organizing, preserving, and managing social media content.
             <br><br>
             <strong>Frontend:</strong> AI Studio - Angular, Vercel <br>
           </td>
@@ -165,7 +165,7 @@ orange - D2691E
         <tr>
           <td>Memora</td>
           <td>
-            Floating desktop note-taking application for capturing thoughts, quick notes, and productivity workflows.
+            Personal Project: Floating desktop note-taking application for capturing thoughts, quick notes, and productivity workflows.
             <br><br>
             <strong>Frontend:</strong> Antigravity - Electron, React<br>
           </td>
@@ -175,7 +175,7 @@ orange - D2691E
         <tr>
           <td>Chrono Mind</td>
           <td>
-            Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.
+            Personal Project: Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.
             <br><br>
             <strong>Frontend:</strong> AI Studio - React, Netlify <br>
           </td>
@@ -185,7 +185,7 @@ orange - D2691E
         <tr>
           <td>Math Logic</td>
           <td>
-            AI-powered calculator and mathematical problem-solving platform built for analytical workflows.
+            Personal Project: AI-powered calculator and mathematical problem-solving platform built for analytical workflows.
             <br><br>
             <strong>Frontend:</strong> AI Studio - React, Netlify<br>
           </td>
@@ -207,7 +207,7 @@ orange - D2691E
         <tr>
           <td>Immersify</td>
           <td>
-            Hackathon project delivering immersive background music experiences while reading content.
+            Team Project: Hackathon project delivering immersive background music experiences while reading content.
             <br><br>
           </td>
           <td align="center">—</td>
