@@ -86,10 +86,10 @@ orange - D2691E
       <tr>
           <td>Vidya AI</td>
           <td>
-            Mini Project: An AI-driven educational platform designed to enhance the learning experience through personalized content and smart study tools.
+            Portfolio Project: An AI-driven educational platform designed to enhance the learning experience through personalized content and smart study tools.
             <br><br>
-            <strong>Frontend:</strong> Angular, SignalStore, Vercel, Tailwind CSS, PrimeNg, RxJS, NgRx, TS<br>
-            <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, Type ORM, Modular + Clean Architecture, Zod Validation, AWS, JWT, Passport, Argon, Brevo, TS, CQRS
+            <strong>Frontend:</strong> Angular, SignalStore, Vercel, Tailwind CSS, PrimeNg, RxJS, NgRx, TS, Feature + Component-based Architecture<br>
+            <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, Type ORM, Modular + Clean Architecture, Zod Validation, AWS, JWT, Passport, Argon, Brevo, TS, CQRS, Nginx, PM2, Git, DNS, SSL/TLS, PNPM
           </td>
           <td align="center"><a href="https://vidya.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/vidya-ai">Frontend</a> 
@@ -101,7 +101,7 @@ orange - D2691E
           <td>
             A comprehensive platform focused on mastering pixel-perfect web design, modern UI development principles, and interactive animations.
             <br><br>
-            <strong>Frontend:</strong> AI Studio, React, Vercel
+            <strong>Frontend:</strong> AI Studio, React, Netlify
           </td>
           <td align="center"><a href="https://pixel-mastery.netlify.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/pixel-mastery">Repo</a></td>
@@ -109,7 +109,7 @@ orange - D2691E
         <tr>
           <td>Nexus AI</td>
           <td>
-            A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.
+            Portfolio Project: A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.
             <br><br>
             <strong>Frontend:</strong> Angular, Vercel, Feature-based Architecture<br>
             <strong>Backend:</strong> Node.js, Express.js, Mongoose, MongoDB, Socket.io, Modular Architecture, AWS, S3
@@ -132,7 +132,7 @@ orange - D2691E
         <tr>
           <td>Nirman</td>
           <td>
-            Construction and project management platform focused on streamlined workflows and operational efficiency.
+            Capstone Project: Construction and project management platform focused on streamlined workflows and operational efficiency.
             <br><br>
             <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture, Angular material, Scss<br>
             <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, PNPM, AWS, S3, Docker
@@ -195,7 +195,7 @@ orange - D2691E
         <tr>
           <td>Unbound</td>
           <td>
-            Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.
+            Capstone Project: Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.
             <br><br>
             <strong>Frontend:</strong> EJS, OAuth<br>
             <strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose, MVC Architecture<br>
