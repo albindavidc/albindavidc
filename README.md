@@ -207,7 +207,7 @@ orange - D2691E
         <tr>
           <td>Immersify</td>
           <td>
-            Team Project: Hackathon project delivering immersive background music experiences while reading content.
+            Collaborative Project: Hackathon project delivering immersive background music experiences while reading content.
             <br><br>
           </td>
           <td align="center">—</td>
