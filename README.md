@@ -83,6 +83,29 @@ orange - D2691E
         </tr>
       </thead>
       <tbody>
+      <tr>
+          <td>Vidya AI</td>
+          <td>
+            Mini Project: An AI-driven educational platform designed to enhance the learning experience through personalized content and smart study tools.
+            <br><br>
+            <strong>Frontend:</strong> Angular, SignalStore, Vercel, Tailwind CSS, PrimeNg, RxJS, NgRx, TS<br>
+            <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, Type ORM, Modular + Clean Architecture, Zod Validation, AWS, JWT, Passport, Argon, Brevo, TS, CQRS
+          </td>
+          <td align="center"><a href="https://vidya.albindavidc.com/">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/vidya-ai">Frontend</a> 
+            <br> <br>
+            <a href="https://github.com/albindavidc/vidya-server">Backend</a></td>
+        </tr>
+        <tr>
+          <td>Pixel Mastery</td>
+          <td>
+            A comprehensive platform focused on mastering pixel-perfect web design, modern UI development principles, and interactive animations.
+            <br><br>
+            <strong>Frontend:</strong> AI Studio, React, Vercel
+          </td>
+          <td align="center"><a href="https://pixel-mastery.netlify.app/">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/pixel-mastery">Repo</a></td>
+        </tr>
         <tr>
           <td>Nexus AI</td>
           <td>
