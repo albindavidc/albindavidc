@@ -134,8 +134,8 @@ orange - D2691E
           <td>
             <strong>Capstone Project:</strong> Construction and project management platform focused on streamlined workflows and operational efficiency.
             <br><br>
-            <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture, Angular material, Scss<br>
-            <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, PNPM, AWS, S3, Docker
+            <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture, Angular Material, SCSS, ECharts, DHTMLX Gantt, FilePond, Google Maps, Stripe, Socket.io-client<br>
+            <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, CQRS, PNPM, AWS S3, Docker, BullMQ, Passport/JWT, Stripe, PDFKit, ExcelJS, Winston, Nodemailer
           </td>
           <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nirman-client">Frontend</a> 
