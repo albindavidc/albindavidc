@@ -367,23 +367,53 @@ orange - D2691E
 
 <br clear="both">
 <div align="center">
+
   <a href="mailto:albindavidc007@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/albindavidc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/919946799434" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://twitter.com/AlbinDavidC" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/channels/@940520675779690506" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img
+      src="https://icon-space.vercel.app/icons?i=gmail&theme=dark"
+      width="52"
+      height="52"
+      alt="Gmail"
+    />
   </a>
 
-</div> 
+  <a href="https://www.linkedin.com/in/albindavidc/" target="_blank">
+    <img
+      src="https://icon-space.vercel.app/icons?i=linkedin&theme=dark"
+      width="52"
+      height="52"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://wa.me/919946799434" target="_blank">
+    <img
+      src="https://icon-space.vercel.app/icons?i=whatsapp&theme=dark"
+      width="52"
+      height="52"
+      alt="WhatsApp"
+    />
+  </a>
+
+  <a href="https://twitter.com/AlbinDavidC" target="_blank">
+    <img
+      src="https://icon-space.vercel.app/icons?i=x&theme=dark"
+      width="52"
+      height="52"
+      alt="X"
+    />
+  </a>
+
+  <a href="https://discord.com/channels/@940520675779690506" target="_blank">
+    <img
+      src="https://icon-space.vercel.app/icons?i=discord&theme=dark"
+      width="52"
+      height="52"
+      alt="Discord"
+    />
+  </a>
+
+</div>
 
 </br></br></br>
 
