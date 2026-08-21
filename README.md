@@ -379,7 +379,8 @@ orange - D2691E
 </br></br></br>
 
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/albindavidc/) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/albindavidc) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/albin-david-c) [![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/albindavidc)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/albindavidc/) [![Dribbble](https://img.shields.io/badge/Dribbble-1A1A1A?style=for-the-badge&logo=dribbble&logoColor=EA4C89)](https://dribbble.com/albindavidc) [![Behance](https://img.shields.io/badge/Behance-1A1A1A?style=for-the-badge&logo=behance&logoColor=1769FF)](https://www.behance.net/albin-david-c) [![Monkeytype](https://img.shields.io/badge/Monkeytype-1A1A1A?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/albindavidc)
+
 
 </br></br></br>
 
