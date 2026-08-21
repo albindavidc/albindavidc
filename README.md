@@ -385,6 +385,10 @@ orange - D2691E
 
 </div> 
 
+</br></br></br>
+
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/albindavidc/) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/albindavidc) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/albin-david-c) [![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/albindavidc)
 
 </br></br></br>
 
