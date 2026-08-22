@@ -380,7 +380,7 @@ orange - D2691E
 <br clear="both">
 <div align="center">
 
-<a href="mailto:albindavidc007@gmail.com" target="_blank"><img src="https://icon-space.vercel.app/icons?i=gmail&theme=dark" width="52" height="52" alt="Gmail"></a>
+<a href="mailto:albindc007@gmail.com" target="_blank"><img src="https://icon-space.vercel.app/icons?i=gmail&theme=dark" width="52" height="52" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/albindavidc/" target="_blank"><img src="https://icon-space.vercel.app/icons?i=linkedin&theme=dark" width="52" height="52" alt="LinkedIn"></a>
 <a href="https://wa.me/919946799434" target="_blank"><img src="https://icon-space.vercel.app/icons?i=whatsapp&theme=dark" width="52" height="52" alt="WhatsApp"></a>
 <a href="https://twitter.com/AlbinDavidC" target="_blank"><img src="https://icon-space.vercel.app/icons?i=x&theme=dark" width="52" height="52" alt="X"></a>
