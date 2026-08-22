@@ -110,6 +110,18 @@ orange - D2691E
             <a href="https://github.com/albindavidc/vidya-server">Backend</a></td>
         </tr>
         <tr>
+          <td>Icon Space</td>
+          <td>
+            <strong>Open Source Project:</strong> A customizable developer icon generator that allows users to search and select technology icons, configure themes, icon size, and layout, and instantly generate embeddable SVG badges for GitHub profiles, READMEs, and resumes.
+            <br><br>
+            <strong>Frontend:</strong> HTML5, CSS3, JavaScript, Google AI Studio, Vercel, Simple Icons
+            <br>
+            <strong>Backend:</strong> Node.js, Express.js
+          </td>
+          <td align="center"><a href="https://icon-space.vercel.app/">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/icon-space">Repo</a></td>
+        </tr>  
+        <tr>
           <td>Pixel Mastery</td>
           <td>
             <strong>Personal Project:</strong> A comprehensive platform focused on mastering pixel-perfect web design, modern UI development principles, and interactive animations.
