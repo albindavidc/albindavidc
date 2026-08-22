@@ -84,6 +84,19 @@ orange - D2691E
       </thead>
       <tbody>
       <tr>
+        <td>Nirman</td>
+        <td>
+          <strong>Capstone Project:</strong> Construction and project management platform focused on streamlined workflows and operational efficiency.
+          <br><br>
+          <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture, Angular Material, SCSS, ECharts, DHTMLX Gantt, FilePond, Google Maps, Stripe, Socket.io-client<br>
+          <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, CQRS, PNPM, AWS S3, Docker, BullMQ, Passport/JWT, Stripe, PDFKit, ExcelJS, Winston, Nodemailer, Supabase, Winget, Doppler, Langchain, Google genai, Langgraph
+        </td>
+        <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/nirman-client">Frontend</a> 
+          <br> <br>
+          <a href="https://github.com/albindavidc/nirman-server.git">Backend</a></td>
+      </tr>
+      <tr>
           <td>Vidya AI</td>
           <td>
             <strong>Portfolio Project:</strong> An AI-driven educational platform designed to enhance the learning experience through personalized content and smart study tools.
@@ -128,19 +141,6 @@ orange - D2691E
           </td>
           <td align="center"><a href="https://udyama.vercel.app/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/udyama">Repo</a></td>
-        </tr>
-        <tr>
-          <td>Nirman</td>
-          <td>
-            <strong>Capstone Project:</strong> Construction and project management platform focused on streamlined workflows and operational efficiency.
-            <br><br>
-            <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture, Angular Material, SCSS, ECharts, DHTMLX Gantt, FilePond, Google Maps, Stripe, Socket.io-client<br>
-            <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, CQRS, PNPM, AWS S3, Docker, BullMQ, Passport/JWT, Stripe, PDFKit, ExcelJS, Winston, Nodemailer
-          </td>
-          <td align="center"><a href="https://nirman.albindavidc.com/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/nirman-client">Frontend</a> 
-            <br> <br>
-            <a href="https://github.com/albindavidc/nirman-server.git">Backend</a></td>
         </tr>
         <tr>
           <td>Arogya</td>
