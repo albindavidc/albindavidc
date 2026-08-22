@@ -198,7 +198,7 @@ orange - D2691E
             <strong>Capstone Project:</strong> Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.
             <br><br>
             <strong>Frontend:</strong> EJS, Tailwind CSS, SweetAlert2, Cropper.js, JS-Image-Zoom, Fabric.js, jsPDF, jbValidator, Iconify, PostCSS, Autoprefixer<br>
-            <strong>Backend:</strong>  Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Passport.js, OAuth, Bcrypt.js, Express-Session, Multer, Sharp, Jimp, ExcelJS, PDFKit, Puppeteer, Razorpay, Nodemailer, Dotenv, Morgan<br>
+            <strong>Backend:</strong>  Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Passport.js, OAuth, Bcrypt.js, Express-Session, Multer, Sharp, Jimp, ExcelJS, PDFKit, Puppeteer, Razorpay, Nodemailer, Dotenv, Morgan, Compression<br>
             <strong>Deployment:</strong> Google Cloud Platform (GCP), Nginx, PM2, Git, DNS, SSL/TLS
           </td>
           <td align="center"><a href="https://unbound.albindavidc.com/">Live</a></td>
