@@ -195,7 +195,7 @@ orange - D2691E
           <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Repo</a></td>
         </tr>
         <tr>
-          <td>Math Logic</td>
+          <td>Math Logic AI</td>
           <td>
             <strong>Personal Project:</strong> AI-powered calculator and mathematical problem-solving platform built for analytical workflows.
             <br><br>
