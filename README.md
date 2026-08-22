@@ -84,7 +84,7 @@ orange - D2691E
       </thead>
       <tbody>
       <tr>
-        <td>Nirman</td>
+        <td>Nirman AI</td>
         <td>
           <strong>Capstone Project:</strong> Construction and project management platform focused on streamlined workflows and operational efficiency.
           <br><br>
