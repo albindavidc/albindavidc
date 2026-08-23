@@ -85,8 +85,8 @@ orange - D2691E
       <tbody>
       <tr>
         <td>Nirman AI</td>
-        <td>
-          <strong>Capstone Project:</strong> Construction and project management platform focused on streamlined workflows and operational efficiency.
+        <td>          
+          <strong>Capstone Project:</strong> Enterprise-grade construction and procurement management platform built to streamline project execution, vendor operations, workforce management, and financial workflows. Implemented role-based dashboards, Gantt-based project scheduling, real-time communication, document management, AI-powered procurement assistance using RAG and vector search, and AI-driven cash-flow forecasting and recommendations. 
           <br><br>
           <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture, Angular Material, SCSS, ECharts, DHTMLX Gantt, FilePond, Google Maps, Stripe, Socket.io-client<br>
           <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, CQRS, PNPM, AWS S3, Docker, BullMQ, Passport/JWT, Stripe, PDFKit, ExcelJS, Winston, Nodemailer, Supabase, Winget, Doppler, Langchain, Google genai, Langgraph
@@ -99,7 +99,7 @@ orange - D2691E
       <tr>
           <td>Vidya AI</td>
           <td>
-            <strong>Portfolio Project:</strong> An AI-driven educational platform designed to enhance the learning experience through personalized content and smart study tools.
+            <strong>Portfolio Project:</strong> AI-enabled learning and knowledge platform designed around structured educational content, article creation, and role-based content management. Includes authenticated user workflows, OTP verification, article discovery, article authoring/editing, and article viewing.
             <br><br>
             <strong>Frontend:</strong> Angular, SignalStore, Vercel, Tailwind CSS, PrimeNg, RxJS, NgRx, TS, Feature + Component-based Architecture, Es-lint, Prettier.<br>
             <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, Type ORM, Modular + Clean Architecture, Zod Validation, AWS, JWT, Passport, Argon, Brevo, TS, CQRS, Nginx, PM2, Git, DNS, SSL/TLS, PNPM, Es-lint, Prettier.
@@ -112,7 +112,7 @@ orange - D2691E
         <tr>
           <td>Icon Space</td>
           <td>
-            <strong>Open Source Project:</strong> A customizable developer icon generator that allows users to search and select technology icons, configure themes, icon size, and layout, and instantly generate embeddable SVG badges for GitHub profiles, READMEs, and resumes.
+            <strong>Personal Project:</strong> Developer-focused SVG icon generation and embedding platform that lets users search, select, theme, resize, and arrange technology logos, then generate ready-to-use Markdown, HTML, or URL-based skill badges for GitHub profiles, READMEs, resumes, and portfolios. Includes an interactive builder and a lightweight Express API that dynamically composes SVG icons into optimized image responses.
             <br><br>
             <strong>Frontend:</strong> HTML5, CSS3, JavaScript, Google AI Studio, Vercel, Simple Icons
             <br>
@@ -124,7 +124,7 @@ orange - D2691E
         <tr>
           <td>Pixel Mastery</td>
           <td>
-            <strong>Personal Project:</strong> A comprehensive platform focused on mastering pixel-perfect web design, modern UI development principles, and interactive animations.
+            <strong>Personal Project:</strong> Interactive web-development learning platform focused on mastering HTML, JavaScript DOM/BOM APIs, CSS layouts, and Tailwind CSS through structured curricula, visual roadmaps, real-world challenges, and hands-on coding playgrounds. Features an embedded CodeMirror 6 editor with syntax highlighting, formatting, Emmet autocomplete, live code execution, and real-time previews, with progress tracking across learning modules.
             <br><br>
             <strong>Frontend:</strong> AI Studio, React, Netlify
           </td>
@@ -134,7 +134,7 @@ orange - D2691E
         <tr>
           <td>Nexus AI</td>
           <td>
-            <strong>Portfolio Project:</strong> A real-time fitness social platform where users connect with workout partners, join fitness groups, and get personalized coaching from an AI trainer — all in one dark-themed, high-performance app.
+            <strong>Portfolio Project:</strong> Real-time AI fitness and calisthenics community platform that combines social interaction with personalized AI coaching. Users can communicate through real-time chat, participate in groups, receive notifications, and interact with an AI fitness coach for workout planning, exercise progressions, form guidance, and overcoming training plateaus.
             <br><br>
             <strong>Frontend:</strong> Angular, Vercel, Feature-based Architecture<br>
             <strong>Backend:</strong> Node.js, Express.js, Mongoose, MongoDB, Socket.io, Modular Architecture, AWS, S3
@@ -147,7 +147,7 @@ orange - D2691E
         <tr>
           <td>Udyama</td>
           <td>
-            <strong>Personal Project:</strong> A structured calisthenics training platform that guides users from foundation to mastery through three progressive stages — Beginner, Competent, and Master — featuring a movement library with categorized push, pull, legs, core, and mobility progressions.
+            <strong>Personal Project:</strong> Structured calisthenics and bodyweight training platform designed to guide users through progressive strength development and long-term mastery. Features a 7-day “Apex Engine” training program with structured protocols, a visual movement library, a seven-layer mastery progression system, achievement tracking, a physical-development pillar matrix, and a progress-focused dashboard.
             <br><br>
             <strong>Frontend:</strong> AI Studio - React, Vercel
           </td>
@@ -157,7 +157,7 @@ orange - D2691E
         <tr>
           <td>Arogya</td>
           <td>
-            <strong>Personal Project:</strong> Yoga and wellness platform focused on mindfulness, human enlightenment, and guided asana practices. (Still in progress)
+            <strong>Personal Project:</strong> Modern yoga and wellness platform providing a structured library of asanas and pranayama practices. Organizes poses into progressive practice phases and provides interactive pose guides with Sanskrit names, step-by-step instructions, recommended pranayama and mudra pairings, and difficulty-based frequency and duration guidance. Includes gender-specific visual demonstrations, a curated “Top 5” routine, and a responsive mobile-first interface. (Still in progress)
             <br><br>
             <strong>Frontend:</strong> AI Studio - Angular, Gemini - Nano banana, Vercel <br>
           </td>
@@ -167,7 +167,7 @@ orange - D2691E
         <tr>
           <td>Keep Archive</td>
           <td>
-            <strong>Personal Project:</strong> Digital archive and productivity platform for organizing, preserving, and managing social media content.
+            <strong>Personal Project:</strong> Privacy-first local media archiving application designed to preserve WhatsApp statuses and stories directly on the user's device without uploading media to external servers. Provides automatic status-directory detection, local media processing, searchable archive management, image/video viewing, native sharing, custom storage locations including SD cards, and web-to-native mobile support through Capacitor.
             <br><br>
             <strong>Frontend:</strong> AI Studio - Angular, Vercel <br>
           </td>
@@ -177,7 +177,7 @@ orange - D2691E
         <tr>
           <td>Memora</td>
           <td>
-            <strong>Personal Project:</strong> Floating desktop note-taking application for capturing thoughts, quick notes, and productivity workflows.
+            <strong>Personal Project:</strong> Lightweight floating desktop note-taking application focused on fast, distraction-free knowledge capture and keyboard-driven productivity. Provides smart text formatting, keyboard shortcuts, ordered lists, real-time spell checking with learned corrections, bulk note management, and an optimized floating interface designed for rapid note creation and editing.
             <br><br>
             <strong>Frontend:</strong> Antigravity - Electron, React<br>
           </td>
@@ -187,7 +187,7 @@ orange - D2691E
         <tr>
           <td>Chrono Mind</td>
           <td>
-            <strong>Personal Project:</strong> Advanced timer and productivity application featuring sequence timers, counters, and audio tone support.
+            <strong>Personal Project:</strong> Multi-purpose time-management application combining countdown timers, customizable multi-step sequence timers, stopwatch functionality, lap tracking, and configurable audio notifications. Supports reusable workout and productivity sequences, local persistence of custom routines, swipe-based navigation, screen wake lock, and PWA installation for a native-like mobile experience.
             <br><br>
             <strong>Frontend:</strong> AI Studio - React, Netlify <br>
           </td>
@@ -195,9 +195,9 @@ orange - D2691E
           <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Repo</a></td>
         </tr>
         <tr>
-          <td>Math Logic AI</td>
+          <td>Math Logic</td>
           <td>
-            <strong>Personal Project:</strong> AI-powered calculator and mathematical problem-solving platform built for analytical workflows.
+            <strong>Personal Project:</strong>Modern, responsive mathematical calculator built for fast everyday calculations with a polished glassmorphism interface. Supports chained arithmetic operations, parentheses, input validation and sanitization, precision-aware result formatting, timestamped calculation history, and a responsive PWA-ready interface with animated interactions.
             <br><br>
             <strong>Frontend:</strong> AI Studio - React, Netlify<br>
           </td>
@@ -207,7 +207,7 @@ orange - D2691E
         <tr>
           <td>Unbound</td>
           <td>
-            <strong>Capstone Project:</strong> Highly customizable e-commerce platform focused on scalable and flexible shopping experiences.
+            <strong>Capstone Project:</strong> Full-stack e-commerce platform providing a complete customer shopping experience and administrative management system. Supports local and Google OAuth authentication, product discovery and filtering, customizable product design through an interactive canvas editor, cart and wishlist management, Razorpay payments, virtual wallet and refund workflows, coupons and referral programs, order tracking, address management, and profile customization. The admin platform provides product/category management, order and payment tracking, promotional tools, sales analytics, and automated PDF/Excel report generation.
             <br><br>
             <strong>Frontend:</strong> EJS, Tailwind CSS, SweetAlert2, Cropper.js, JS-Image-Zoom, Fabric.js, jsPDF, jbValidator, Iconify, PostCSS, Autoprefixer<br>
             <strong>Backend:</strong>  Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Passport.js, OAuth, Bcrypt.js, Express-Session, Multer, Sharp, Jimp, ExcelJS, PDFKit, Puppeteer, Razorpay, Nodemailer, Dotenv, Morgan, Compression<br>
@@ -219,7 +219,7 @@ orange - D2691E
         <tr>
           <td>Immersify</td>
           <td>
-            <strong>Collaborative Project:</strong> Hackathon project delivering immersive background music experiences while reading content.
+            <strong>Collaborative Project:</strong> Hackathon project delivering immersive background music experiences while reading books for children.
             <br><br>
           </td>
           <td align="center">—</td>
