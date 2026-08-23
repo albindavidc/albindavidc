@@ -147,7 +147,7 @@ orange - D2691E
         <tr>
           <td>Monkeytype</td>
           <td>
-            <strong>Open Source Contribution:</strong>
+            <strong>Open Source Contribution Project:</strong>
             Contributed production fixes and feature enhancements to Monkeytype, a highly customizable open-source typing platform. Implemented and shipped challenge-system improvements, including reliable challenge loading from URL parameters, improved asynchronous initialization and notification handling, and a new "Ten Words of Pain" Wingdings challenge with custom-font configuration, Master-mode constraints, and validation requirements.
             <br><br>
             <strong>Contributions:</strong>
