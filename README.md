@@ -88,6 +88,7 @@ orange - D2691E
         <td>          
           <strong>Capstone Project:</strong> Enterprise-grade construction and procurement management platform built to streamline project execution, vendor operations, workforce management, and financial workflows. Implemented role-based dashboards, Gantt-based project scheduling, real-time communication, document management, AI-powered procurement assistance using RAG and vector search, and AI-driven cash-flow forecasting and recommendations. 
           <br><br>
+          <strong>Design: </strong> Figma, Prototyping, Wireframing, Mockups, User Persona Creation, Low & High Fidelity Prototypes
           <strong>Frontend:</strong> Angular, NgRx, Vercel, Feature-based Architecture, Angular Material, SCSS, ECharts, DHTMLX Gantt, FilePond, Google Maps, Stripe, Socket.io-client<br>
           <strong>Backend:</strong> Node.js, NestJS, Prisma, PostgreSQL, Redis, Socket.io, Clean Architecture, CQRS, PNPM, AWS S3, Docker, BullMQ, Passport/JWT, Stripe, PDFKit, ExcelJS, Winston, Nodemailer, Supabase, Winget, Doppler, Langchain, Google genai, Langgraph
         </td>
@@ -243,6 +244,7 @@ orange - D2691E
           <td>
             <strong>Capstone Project:</strong> Full-stack e-commerce platform providing a complete customer shopping experience and administrative management system. Supports local and Google OAuth authentication, product discovery and filtering, customizable product design through an interactive canvas editor, cart and wishlist management, Razorpay payments, virtual wallet and refund workflows, coupons and referral programs, order tracking, address management, and profile customization. The admin platform provides product/category management, order and payment tracking, promotional tools, sales analytics, and automated PDF/Excel report generation.
             <br><br>
+            <strong>Design: </strong> Figma, Prototyping, Wireframing, Mockups, User Persona Creation, Low & High Fidelity Prototypes
             <strong>Frontend:</strong> EJS, Tailwind CSS, SweetAlert2, Cropper.js, JS-Image-Zoom, Fabric.js, jsPDF, jbValidator, Iconify, PostCSS, Autoprefixer<br>
             <strong>Backend:</strong>  Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Passport.js, OAuth, Bcrypt.js, Express-Session, Multer, Sharp, Jimp, ExcelJS, PDFKit, Puppeteer, Razorpay, Nodemailer, Dotenv, Morgan, Compression<br>
             <strong>Deployment:</strong> Google Cloud Platform (GCP), Nginx, PM2, Git, DNS, SSL/TLS
