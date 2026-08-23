@@ -145,6 +145,40 @@ orange - D2691E
             <a href="https://github.com/albindavidc/nexus-server.git">Backend</a></td>
         </tr>
         <tr>
+          <td>Monkeytype</td>
+          <td>
+            <strong>Open Source Contribution:</strong>
+            Contributed production fixes and feature enhancements to Monkeytype, a highly customizable open-source typing platform. Implemented and shipped challenge-system improvements, including reliable challenge loading from URL parameters, improved asynchronous initialization and notification handling, and a new "Ten Words of Pain" Wingdings challenge with custom-font configuration, Master-mode constraints, and validation requirements.
+            <br><br>
+            <strong>Contributions:</strong>
+            <ul>
+              <li>
+                <strong>Challenge URL Loading:</strong>
+                Fixed challenge initialization through URL parameters by coordinating asynchronous authentication/loading state, preventing race conditions, and improving success/error notification behavior.
+              </li>
+              <li>
+                <strong>Wingdings Challenge:</strong>
+                Added the "Ten Words of Pain" challenge with a 10-word Master-mode test, Wingdings font configuration, disabled keymap, 60+ WPM requirement, and 100% accuracy requirement.
+              </li>
+              <li>
+                <strong>Challenge System:</strong>
+                Extended challenge schema and controller logic to support the new challenge type and integrated configuration changes into the existing challenge lifecycle.
+              </li>
+            </ul>
+            <br>
+            <strong>Additional Contributions:</strong>
+            Proposed quote-tagging and content-categorization improvements for English, Malayalam, Tamil, and Kannada quote datasets, including UI filtering, metadata schemas, and localized tag structures.
+          </td>
+          <td align="center">
+            <a href="YOUR_EXISTING_PR_SEARCH_LINK">Pull Requests</a>
+            <br><br>
+            <a href="YOUR_EXISTING_DISCUSSIONS_LINK">Discussions</a>
+          </td>
+          <td align="center">
+            <a href="YOUR_EXISTING_FORK_LINK">Code</a>
+          </td>
+        </tr>
+        <tr>
           <td>Udyama</td>
           <td>
             <strong>Personal Project:</strong> Structured calisthenics and bodyweight training platform designed to guide users through progressive strength development and long-term mastery. Features a 7-day “Apex Engine” training program with structured protocols, a visual movement library, a seven-layer mastery progression system, achievement tracking, a physical-development pillar matrix, and a progress-focused dashboard.
@@ -298,39 +332,6 @@ orange - D2691E
 -->
 
 
-
-
-
-<!-- 
-
-# Open Source Software Contributions (OSS)
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    <table>
-      <thead>
-        <tr>
-          <th>Project Name</th>
-          <th>Project Description</th>
-          <th>Contributions</th>
-          <th>Repository</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Monkeytype</td>
-          <td>A highly customizable, minimalist online typing platform featuring real-time analytics for a global community of over 2 million users.</td>
-          <td align="center">
-            <a href="https://github.com/search?q=repo%3Amonkeytypegame%2Fmonkeytype++albindavidc&type=pullrequests">Pull Requests</a>
-            <br></br>
-            <a href="https://github.com/monkeytypegame/monkeytype/discussions?discussions_q=is%3Aopen++author%3Aalbindavidc+">Discussions</a>
-          </td>
-          <td align="center"><a href="https://github.com/albindavidc/monkeytype">Code</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-<!-- 
 
 
 <!-- 
