@@ -103,7 +103,7 @@ orange - D2691E
             <strong>Portfolio Project:</strong> AI-enabled learning and knowledge platform designed around structured educational content, article creation, and role-based content management. Includes authenticated user workflows, OTP verification, article discovery, article authoring/editing, and article viewing.
             <br><br>
             <strong>Frontend:</strong> Angular, NgRx, NgRx SignalStore, Tailwind CSS, PrimeNG, RxJS, TypeScript, Feature + Component-based Architecture, ESLint, Prettier, Vitest, PostCSS, NPM, Vercel<br>
-            <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, TypeORM, Modular + Clean Architecture, Zod Validation, JWT, Passport, Argon, Brevo, Google GenAI, CQRS, TypeScript, ESLint, Prettier, Jest, AWS, Nginx, PM2, Git, DNS, SSL/TLS, PNPM.            
+            <strong>Backend:</strong> Node.js, Express, NestJS, MongoDB, MongoDB Atlas, TypeORM, Modular + Clean Architecture, Zod Validation, JWT, Passport, Argon, Brevo, Google GenAI, CQRS, TypeScript, ESLint, Prettier, Jest, AWS, Nginx, PM2, Git, DNS, SSL/TLS, PNPM.            
           </td>
           <td align="center"><a href="https://vidya.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/vidya-ai">Frontend</a> 
@@ -138,7 +138,7 @@ orange - D2691E
             <strong>Portfolio Project:</strong> Real-time AI fitness and calisthenics community platform that combines social interaction with personalized AI coaching. Users can communicate through real-time chat, participate in groups, receive notifications, and interact with an AI fitness coach for workout planning, exercise progressions, form guidance, and overcoming training plateaus.
             <br><br>
             <strong>Frontend:</strong> Angular, Vercel, Feature-based Architecture, TypeScript, RxJS, Socket.io-client, SCSS, FilePond, Marked, DOMPurify, ESLint<br>
-            <strong>Backend:</strong> Node.js, Express.js, Mongoose, MongoDB, Socket.io, Modular Architecture, AWS, S3, TypeScript, Google Generative AI, Tsyringe, JWT, Bcrypt, Helmet, CORS, Multer, Web-Push, Nodemailer, Winston, Morgan
+            <strong>Backend:</strong> Node.js, Express.js, Mongoose, MongoDB, MongoDB Atlas, Socket.io, Modular Architecture, AWS, S3, TypeScript, Google Generative AI, Tsyringe, JWT, Bcrypt, Helmet, CORS, Multer, Web-Push, Nodemailer, Winston, Morgan
           </td>
           <td align="center"><a href="https://nexus.albindavidc.com/">Live</a></td>
           <td align="center"><a href="https://github.com/albindavidc/nexus">Frontend</a> 
@@ -246,7 +246,7 @@ orange - D2691E
             <br><br>
             <strong>Design: </strong> Figma, Prototyping, Wireframing, Mockups, User Persona Creation, Low & High Fidelity Prototypes
             <strong>Frontend:</strong> EJS, Tailwind CSS, SweetAlert2, Cropper.js, JS-Image-Zoom, Fabric.js, jsPDF, jbValidator, Iconify, PostCSS, Autoprefixer<br>
-            <strong>Backend:</strong>  Node.js, Express.js, MongoDB, Mongoose, MVC Architecture, Passport.js, OAuth, Bcrypt.js, Express-Session, Multer, Sharp, Jimp, ExcelJS, PDFKit, Puppeteer, Razorpay, Nodemailer, Dotenv, Morgan, Compression<br>
+            <strong>Backend:</strong>  Node.js, Express.js, MongoDB, Mongoose, MongoDB Atlas, MVC Architecture, Passport.js, OAuth, Bcrypt.js, Express-Session, Multer, Sharp, Jimp, ExcelJS, PDFKit, Puppeteer, Razorpay, Nodemailer, Dotenv, Morgan, Compression<br>
             <strong>Deployment:</strong> Google Cloud Platform (GCP), Nginx, PM2, Git, DNS, SSL/TLS
           </td>
           <td align="center"><a href="https://unbound.albindavidc.com/">Live</a></td>
