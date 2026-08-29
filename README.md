@@ -5,7 +5,7 @@
 ### ✨ "Passionate AI Full Stack Developer turning ideas into reality" ✨
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/AI%20Full%20Stack%20Engineer-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack" />
   <img src="https://img.shields.io/badge/Front--end%20Developer-CC342D?style=for-the-badge&logo=angular&logoColor=white" alt="Front-end" />
   <img src="https://img.shields.io/badge/Back--end%20Developer-2E8B57?style=for-the-badge&logo=node.js&logoColor=white" alt="Back-end" />
   <img src="https://img.shields.io/badge/UX%2FUI%20Designer-08457E?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
