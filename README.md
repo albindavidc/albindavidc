@@ -83,6 +83,18 @@ orange - D2691E
         </tr>
       </thead>
       <tbody>
+        <tr>
+          <td>Stats Visualizer</td>
+          <td>
+            <strong>Personal Project:</strong> A full-stack web application to visualize, customize, and gamify developer statistics across GitHub and LeetCode — yearly contribution heatmaps, longest streaks, top languages, and LeetCode completion rings with difficulty breakdowns, all rendered as sleek, theme-able cards. Includes an interactive builder with multiple color themes (Sleek, Dracula, Ocean, Amber, Classic GitHub) and custom Google Fonts, a playable retro arcade "Space Shooter" mode that turns a GitHub contribution graph into an HTML5 game, and one-click Markdown/URL embed generation.
+            <br><br>
+            <strong>Frontend:</strong> React 18, TypeScript, Vite, Tailwind CSS, Lucide React (Google AI Studio)
+            <br>
+            <strong>Backend:</strong> Node.js, Express.js (secure API proxy for GitHub and LeetCode data) (Vercel functions)
+          </td>
+          <td align="center"><a href="https://stats-visualizer.vercel.app/">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/stats-visualizer">Repo</a></td>
+        </tr>
       <tr>
         <td>Nirman AI</td>
         <td>          
