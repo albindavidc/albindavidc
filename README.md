@@ -242,16 +242,6 @@ orange - D2691E
           <td align="center"><a href="https://github.com/albindavidc/chrono-mind">Repo</a></td>
         </tr>
         <tr>
-          <td>Math Logic</td>
-          <td>
-            <strong>Personal Project:</strong>Modern, responsive mathematical calculator built for fast everyday calculations with a polished glassmorphism interface. Supports chained arithmetic operations, parentheses, input validation and sanitization, precision-aware result formatting, timestamped calculation history, and a responsive PWA-ready interface with animated interactions.
-            <br><br>
-            <strong>Frontend:</strong> AI Studio - React, Netlify<br>
-          </td>
-          <td align="center"><a href="https://math-logic.netlify.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/math-logic">Repo</a></td>
-        </tr>
-        <tr>
           <td>Unbound</td>
           <td>
             <strong>Capstone Project:</strong> Full-stack e-commerce platform providing a complete customer shopping experience and administrative management system. Supports local and Google OAuth authentication, product discovery and filtering, customizable product design through an interactive canvas editor, cart and wishlist management, Razorpay payments, virtual wallet and refund workflows, coupons and referral programs, order tracking, address management, and profile customization. The admin platform provides product/category management, order and payment tracking, promotional tools, sales analytics, and automated PDF/Excel report generation.
@@ -323,6 +313,19 @@ orange - D2691E
 
   </div>
 </div>
+
+
+<!-- <tr>
+  <td>Math Logic</td>
+  <td>
+    <strong>Personal Project:</strong>Modern, responsive mathematical calculator built for fast everyday calculations with a polished glassmorphism interface. Supports chained arithmetic operations, parentheses, input validation and sanitization, precision-aware result formatting, timestamped calculation history, and a responsive PWA-ready interface with animated interactions.
+    <br><br>
+    <strong>Frontend:</strong> AI Studio - React, Netlify<br>
+  </td>
+  <td align="center"><a href="https://math-logic.netlify.app/">Live</a></td>
+  <td align="center"><a href="https://github.com/albindavidc/math-logic">Repo</a></td>
+</tr> -->
+
 
 
 
