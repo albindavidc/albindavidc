@@ -212,6 +212,18 @@ orange - D2691E
           <td align="center"><a href="https://github.com/albindavidc/arogya">Repo</a></td>
         </tr>
         <tr>
+          <td>Film Atlas</td>
+          <td>
+            <strong>Personal Project:</strong> Premium multilingual movie and series discovery platform that brings theatrical releases and OTT streaming into a single, cinematic interface. Features dedicated <strong>OTT Releases</strong> and <strong>In Theaters</strong> views, advanced release-date filtering, multi-language discovery across English, Hindi, Malayalam, Tamil, Telugu, and Kannada, client-side search, streaming-platform indicators, trailer discovery with TMDB and YouTube fallbacks, and an immersive trailer modal experience. Uses a statically generated local media database to reduce API dependency and provide fast client-side browsing.
+            <br><br>
+            <strong>Frontend & Backend:</strong> React, TypeScript, Vite, Tailwind CSS, Node.js, Express
+            <br>
+            <strong>Data & Integrations:</strong> TMDB API, YouTube Search, Lucide React, Motion
+          </td>
+          <td align="center"><a href="https://film-atlas.netlify.app/">Live</a></td>
+          <td align="center"><a href="https://github.com/albindavidc/film-atlas">Repo</a></td>
+        </tr>
+        <tr>
           <td>Keep Archive</td>
           <td>
             <strong>Personal Project:</strong> Privacy-first local media archiving application designed to preserve WhatsApp statuses and stories directly on the user's device without uploading media to external servers. Provides automatic status-directory detection, local media processing, searchable archive management, image/video viewing, native sharing, custom storage locations including SD cards, and web-to-native mobile support through Capacitor.
