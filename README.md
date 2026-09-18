@@ -183,12 +183,12 @@ orange - D2691E
             Proposed quote-tagging and content-categorization improvements for English, Malayalam, Tamil, and Kannada quote datasets, including UI filtering, metadata schemas, and localized tag structures.
           </td>
           <td align="center">
-            <a href="YOUR_EXISTING_PR_SEARCH_LINK">Pull Requests</a>
+            <a href="https://github.com/monkeytypegame/monkeytype/pulls?q=albindavidc">Pull Requests</a>
             <br><br>
-            <a href="YOUR_EXISTING_DISCUSSIONS_LINK">Discussions</a>
+            <a href="https://github.com/monkeytypegame/monkeytype/discussions?discussions_q=is%3Aopen+author%3Aalbindavidc">Discussions</a>
           </td>
           <td align="center">
-            <a href="YOUR_EXISTING_FORK_LINK">Code</a>
+            <a href="https://github.com/albindavidc/monkeytype">Code</a>
           </td>
         </tr>
         <tr>
