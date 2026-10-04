@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/UX%2FUI%20Designer-0E7490?style=for-the-badge&logo=figma&logoColor=white" alt="Designer" />
 </p> -->
 
+
+<div align="center"> <img src="profile.svg" alt="Profile Banner" width="100%" /> </div>
+
 </br></br>
 </br></br>
 
