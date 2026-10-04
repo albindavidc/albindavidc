@@ -22,7 +22,7 @@
 </br></br>
 </br></br>
 
-<div align="center"> <img src="profile.svg" alt="Profile Banner" width="100%" /> </div>
+<div align="center"> <img src="profil.svg" alt="Profile Banner" width="100%" /> </div>
 
 </br></br>
 </br></br>
