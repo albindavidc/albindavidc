@@ -89,18 +89,6 @@ orange - D2691E
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>Stats Visualizer</td>
-          <td>
-            <strong>Personal Project:</strong> Developer focused web application to visualize, customize, and gamify developer statistics across GitHub and LeetCode — yearly contribution heatmaps, longest streaks, top languages, and LeetCode completion rings with difficulty breakdowns, all rendered as sleek, theme-able cards. Includes an interactive builder with multiple color themes (Sleek, Dracula, Ocean, Amber, Classic GitHub) and custom Google Fonts, a playable retro arcade "Space Shooter" mode that turns a GitHub contribution graph into an HTML5 game, and one-click Markdown/URL embed generation.
-            <br><br>
-            <strong>Frontend:</strong> React 18, TypeScript, Vite, Tailwind CSS, Lucide React (Google AI Studio)
-            <br>
-            <strong>Backend:</strong> Node.js, Express.js (secure API proxy for GitHub and LeetCode data) (Vercel functions)
-          </td>
-          <td align="center"><a href="https://stats-visualizer.vercel.app/">Live</a></td>
-          <td align="center"><a href="https://github.com/albindavidc/stats-visualizer">Repo</a></td>
-        </tr>
       <tr>
         <td>Nirman AI</td>
         <td>          
@@ -114,6 +102,30 @@ orange - D2691E
         <td align="center"><a href="https://github.com/albindavidc/nirman-client">Frontend</a> 
           <br> <br>
           <a href="https://github.com/albindavidc/nirman-server.git">Backend</a></td>
+      </tr>
+      <tr>
+        <td>Logicraft</td>
+        <td>
+          <strong>Personal Project:</strong> A comprehensive aptitude preparation platform designed to help users strengthen quantitative aptitude, logical reasoning, and verbal ability through a structured 55-module curriculum. Features an interactive problem-solving workspace with difficulty-based filtering, hints, step-by-step solutions, mathematical formula rendering, and personalized progress tracking. Includes a performance dashboard, daily activity visualization, and persistent user progress to support consistent learning and placement preparation.
+          <br><br>
+          <strong>Frontend:</strong> React 19, TypeScript, Vite, Tailwind CSS, Zustand, React Router, Framer Motion, Recharts, Radix UI, KaTeX
+          <br>
+          <strong>Deployment:</strong> Vercel
+        </td>
+        <td align="center"><a href="https://logi-craft.vercel.app/">Live</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/logicraft">Repo</a></td>
+      </tr>
+      <tr>
+        <td>Stats Visualizer</td>
+        <td>
+          <strong>Personal Project:</strong> Developer focused web application to visualize, customize, and gamify developer statistics across GitHub and LeetCode — yearly contribution heatmaps, longest streaks, top languages, and LeetCode completion rings with difficulty breakdowns, all rendered as sleek, theme-able cards. Includes an interactive builder with multiple color themes (Sleek, Dracula, Ocean, Amber, Classic GitHub) and custom Google Fonts, a playable retro arcade "Space Shooter" mode that turns a GitHub contribution graph into an HTML5 game, and one-click Markdown/URL embed generation.
+          <br><br>
+          <strong>Frontend:</strong> React 18, TypeScript, Vite, Tailwind CSS, Lucide React (Google AI Studio)
+          <br>
+          <strong>Backend:</strong> Node.js, Express.js (secure API proxy for GitHub and LeetCode data) (Vercel functions)
+        </td>
+        <td align="center"><a href="https://stats-visualizer.vercel.app/">Live</a></td>
+        <td align="center"><a href="https://github.com/albindavidc/stats-visualizer">Repo</a></td>
       </tr>
       <tr>
           <td>Vidya AI</td>
